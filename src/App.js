@@ -5,20 +5,22 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Products from './pages/Products';
 import AccountComponent from './components/AccountComponent';
+import Form from './components/Form';
 
 
 
 function App() {
   return (
+    
     <Router>
       <Navbar />
       <Routes>
         <Route path='/' exact element={<Home/>} />        
         <Route path='/products' element={<Products/>} /> 
         <Route path='/accounts' element={<AccountComponent/>} /> 
+        <Route path='/form' element={<Form/>} /> 
       </Routes>
     </Router>
-    
   );
 }
 
