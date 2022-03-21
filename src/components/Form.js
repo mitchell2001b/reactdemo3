@@ -9,30 +9,43 @@ class Form extends Component
 
         this.state = {
             name: "",
-            comments: "",
-            topic: "option1"
+            email: "",
+            password: "",
+            dateofbirth: "",           
         }
     }
-
+    
     HandleNameChange = (event) => {
        this.setState({
            name: event.target.value
        })
     }
 
-    HandleCommentsChange = (event) => {
+    HandleDateOfBirthChange = (event) => {
         this.setState({
-            comments: event.target.value
+            dateofbirth: event.target.value
         })
      }
-     HandleTopicChange = (event) => {
+     HandlePassWordChange = (event) => {
         this.setState({
-            topic: event.target.value
+            password: event.target.value
+        })
+     }
+     HandleEmailChange = (event) => {
+        this.setState({
+            email: event.target.value
         })
      }
 
      HandleSubmit = (event) => {
-        alert(`${this.state.name}`);
+        alert(`${this.state.dateofbirth}`);
+        alert(JSON.stringify(this.state));
+        fetch('http://localhost:8080/api/v1/account/create', {
+           method: 'post',
+           headers: {'Content-Type': 'application/json'},
+           body:  JSON.stringify(this.state)
+                       
+        });
         event.preventDefault();
      }
     render()
@@ -40,20 +53,20 @@ class Form extends Component
        return(
            <form onSubmit={this.HandleSubmit}>
                <div>
-                   <label>UserName</label>
+                   <label>name</label>
                    <input type='text' value={this.state.name} onChange={this.HandleNameChange}></input>
                </div>
                <div>
-                   <label>Comments</label>
-                   <textarea value={this.state.comments} onChange={this.HandleCommentsChange}></textarea>
+                   <label>email</label>
+                   <input type='text' value={this.state.email} onChange={this.HandleEmailChange}></input>
                </div>
                <div>
-                   <label>Topic</label>
-                   <select value={this.state.topic} onChange={this.HandleTopicChange}> 
-                       <option value="option1">Option1</option>
-                       <option value="option2">Option2</option>
-                       <option value="option3">Option3</option>
-                   </select>
+                   <label>password</label>
+                   <input type='password' value={this.state.password} onChange={this.HandlePassWordChange}></input>
+               </div>
+               <div>
+                   <label>Date of Birth</label>
+                   <input type='date' value={this.state.dateofbirth} onChange={this.HandleDateOfBirthChange}></input>
                </div>
                <button type='submit'>Submit</button>
            </form>
