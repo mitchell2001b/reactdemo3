@@ -6,6 +6,9 @@ import Home from './pages/Home';
 import Products from './pages/Products';
 import AccountComponent from './components/AccountComponent';
 import Form from './components/Form';
+import AccountDetails from './pages/AccountDetails';
+import AccountDetComponent from './components/AccountDetComponent';
+import AccountUpdateFormComponent from './components/AccountUpdateFormComponent';
 
 
 
@@ -18,7 +21,9 @@ function App() {
         <Route path='/' exact element={<Home/>} />        
         <Route path='/products' element={<Products/>} /> 
         <Route path='/accounts' element={<AccountComponent/>} /> 
-        <Route path='/form' element={<Form/>} /> 
+        <Route path='/form' element={<Form/>} />
+        <Route path='/accounts/:id' element={<AccountDetComponent/>} />
+        <Route path='/accounts/update/:id' element={<AccountUpdateFormComponent/>} />  
       </Routes>
     </Router>
   );

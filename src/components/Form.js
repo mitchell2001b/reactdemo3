@@ -43,7 +43,7 @@ class Form extends Component
         fetch('http://localhost:8080/api/v1/account/create', {
            method: 'post',
            headers: {'Content-Type': 'application/json'},
-           body:  JSON.stringify(this.state)
+           body:  JSON.stringify(this.state)           
                        
         });
         event.preventDefault();
