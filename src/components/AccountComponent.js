@@ -39,7 +39,8 @@ class AccountComponent extends Component
                          <td> {account.accountid} </td>                
                           <td> {account.name} </td>                 
                           <td> {account.passWord} </td>                 
-                          <td> {account.email} </td>                 
+                          <td> {account.email} </td>
+                          <td><a href={"accounts/" + account.accountid}>Details</a></td>                  
                           </tr>            
                            ))           }         
                            </tbody>
