@@ -1,11 +1,10 @@
 .navbar {
     background-color: #6b0606;
     height: 80px;
-    display: flex;
-    justify-content: start;
-    align-items: center;
+   
     margin: 0; 
     padding: 0;
+  
 }
 
 .menu-bars {
@@ -74,7 +73,8 @@ span {
 }
 
 .taskmanager{
-    margin-left: 5%;
+   
+    margin-right: 5%;
     color: white;
 }
 

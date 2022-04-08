@@ -1,7 +1,11 @@
 import React, { Component } from "react";
 import AccountService from "../services/AccountService";
 import UserService from '../services/AccountService';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Button from 'react-bootstrap/Button';
+import './general.css';
+import './AccountList.css';
+import DeleteAccount from './AccountDelete';
 class AccountComponent extends Component
 {
    constructor(props)
@@ -26,10 +30,11 @@ class AccountComponent extends Component
    render(){
        return(
            
-           <div>
-             <h1>Accounts</h1>
+           <div className="container-md">           
+             <h1 id="AccountListHeader">Accounts</h1>
+             <br></br>
              {              
-                <table>               
+                <table className="table table-dark">               
                      <tbody>           
                          {             
                          this.state.accounts.map(account => ( 
@@ -40,7 +45,8 @@ class AccountComponent extends Component
                           <td> {account.name} </td>                 
                           <td> {account.passWord} </td>                 
                           <td> {account.email} </td>
-                          <td><a href={"accounts/" + account.accountid}>Details</a></td>                  
+                          <td><a href={"accounts/" + account.accountid}>Details</a></td>
+                          <td><Button onClick={() => DeleteAccount(account.accountid)}>Delete</Button></td>                  
                           </tr>            
                            ))           }         
                            </tbody>
