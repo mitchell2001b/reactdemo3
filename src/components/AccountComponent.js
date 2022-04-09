@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 import './general.css';
 import './AccountList.css';
 import DeleteAccount from './AccountDelete';
+import { GetAllAccountsFromApi } from "./AccountGetAll";
 class AccountComponent extends Component
 {
    constructor(props)
@@ -17,15 +18,20 @@ class AccountComponent extends Component
    }
    
    componentDidMount() {   
-       fetch("http://localhost:8080/api/v1/account")   
+       /*fetch("http://localhost:8080/api/v1/account")   
        .then(res => res.json())   
        .then(json => {     
            this.setState({       
                accounts: json               
                  })   
-                }); 
+                }); */
+            GetAllAccountsFromApi().then((result) => {
+                
+                this.setState({
+                    accounts: result
+                })
+            })          
     }
-
 
    render(){
        return(
