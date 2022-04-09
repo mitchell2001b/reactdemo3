@@ -1,6 +1,6 @@
 import { Navigate } from 'react-router-dom';
 
-export default function DeleteAccount(id)
+export default async function DeleteAccount(id)
 {
     if(id !== 0)
     {

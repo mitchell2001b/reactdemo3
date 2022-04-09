@@ -11,7 +11,7 @@ class Form extends Component
             name: "",
             email: "",
             password: "",
-            dateofbirth: "",           
+            dateofbirth: "",       
         }
     }
     
