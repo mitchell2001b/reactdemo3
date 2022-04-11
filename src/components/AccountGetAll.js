@@ -7,3 +7,13 @@ export async function GetAllAccountsFromApi()
           
    return data;  
 }
+
+export async function GetAllEmployeeAccountsFromApi()
+{
+    
+   const response = await fetch("http://localhost:8080/api/v1/account/employees")   
+            
+   const data = await response.json().catch(error => console.log(error));
+          
+   return data;  
+}
