@@ -11,6 +11,7 @@ import AccountDetComponent from './components/AccountDetComponent';
 import AccountUpdateFormComponent from './components/AccountUpdateFormComponent';
 import TaskComponent from './components/TaskComponent';
 import TaskCreateForm from './components/TaskCreateForm';
+import TaskDetailsComponent from './components/TaskDetailsComponent';
 
 
 
@@ -26,6 +27,7 @@ function App() {
         <Route path='/tasks' element={<TaskComponent/>} />  
         <Route path='/form' element={<Form/>} />
         <Route path='/accounts/:id' element={<AccountDetComponent/>} />
+        <Route path='/tasks/:id' element={<TaskDetailsComponent/>} />
         <Route path='/accounts/update/:id' element={<AccountUpdateFormComponent/>} />  
         <Route path='/taskform' element={<TaskCreateForm/>} />
       </Routes>

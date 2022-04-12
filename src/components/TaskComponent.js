@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import './general.css';
 import './TaskList.css';
-import DeleteAccount from './AccountDelete';
+import DeleteTask from './TaskDelete';
 class TaskComponent extends Component
 {
    constructor(props)
@@ -39,10 +39,8 @@ class TaskComponent extends Component
                      <tr>
                           <th>Id</th>
                           <th>Title</th>
-                          <th>Description</th>
-                          <th>Completed</th>
-                          <th>Date of Creation</th>
-                          <th>Employee</th>
+                          <th>Description</th>                          
+                          <th></th>
                           <th></th>
                           <th></th>
                       </tr>            
@@ -53,12 +51,10 @@ class TaskComponent extends Component
                          <tr key={task.taskid}>                 
                          <td> {task.taskid} </td>                
                           <td> {task.title} </td>                 
-                          <td> {task.description} </td>                                         
-                          <td> {task.completed} </td>
-                          <td> {task.createdat} </td> 
-                          <td> {task.account.email} </td>
-                          <td><a href={"accounts/" + task.account.accountid}>Details</a></td>
-                          <td><Button onClick={() => DeleteAccount(task.account.accountid)}>Delete</Button></td>                 
+                          <td> {task.description} </td>                                                                   
+                          <td><a href={"tasks/" + task.taskid} class="link-danger">Details</a></td>                        
+                          <td><button type="button" class="btn btn-danger" onClick={() => DeleteTask(task.taskid)}>Delete</button></td>
+                          <td><button type="button" class="btn btn-danger" onClick={() => DeleteTask(task.taskid)}>Edit</button></td>            
                           </tr>            
                            ))           
                       }         
