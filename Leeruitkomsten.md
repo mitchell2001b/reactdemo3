@@ -11,6 +11,5 @@ You design and build user-friendly, full-stack web applications.
 Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uiteindelijk laten vallen, omdat deze niet goed aansluiten op de leeruitkomsten.
 
 
-
-
-
+<img width="452" alt="ruimte1" src="https://user-images.githubusercontent.com/79633852/164169702-3d39a096-9e9d-46b8-9bdb-fbc80392aaf9.PNG">
+<img width="402" alt="ruimte2" src="https://user-images.githubusercontent.com/79633852/164169706-1abbe5e2-9499-45cf-bdd1-6cd5128f1029.PNG">
