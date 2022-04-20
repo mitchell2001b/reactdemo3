@@ -11,9 +11,14 @@ export async function GetAllAccountsFromApi()
 export async function GetAllEmployeeAccountsFromApi()
 {
     
-   const response = await fetch("http://localhost:8080/api/v1/account/employees")   
+   const responseVar = await fetch("http://localhost:8080/api/v1/account/employees")
+       
+   if(responseVar.ok)
+   {
+      //throw new Error("bb");
+   }
             
-   const data = await response.json().catch(error => console.log(error));
+   const data = await responseVar.json().catch(error => console.log(error));
           
    return data;  
 }
