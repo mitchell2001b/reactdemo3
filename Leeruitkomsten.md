@@ -22,3 +22,15 @@ Voor deze leeruitkomst heb ik gebruik gemaakt of ga ik gebruik maken van Sonarcl
 
 
 <img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
+
+## Leeruitkomst 4: CI/CD
+Voor deze leeruitkomst ga ik git gub actions gebruiken om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch.
+
+
+<img width="406" alt="github" src="https://user-images.githubusercontent.com/79633852/164170917-14271118-9214-4c5c-affe-d73bfcecd5f3.PNG">
+
+
+## Leeruitkomst 8: Professional
+
+Voor deze leeruitkomst maak ik een groepsproject met een proftaak groep en daarbij communiceer ik regelmatig met mijn andere groepsgenoten om te laten zien waar ik mee bezig ben of als ik ergens hulp mee nodig heb. Verder vraag ik voor mijn individuele project feedback aan mijn stakeholders om zo mijn voortgang te tonen aan hen. 
+
