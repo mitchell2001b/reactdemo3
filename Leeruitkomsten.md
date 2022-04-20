@@ -15,3 +15,10 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 
 <img width="452" alt="ruimte1" src="https://user-images.githubusercontent.com/79633852/164169702-3d39a096-9e9d-46b8-9bdb-fbc80392aaf9.PNG">
 <img width="402" alt="ruimte2" src="https://user-images.githubusercontent.com/79633852/164169706-1abbe5e2-9499-45cf-bdd1-6cd5128f1029.PNG">
+
+## Leeruitkomst 2: Software quality 
+
+Voor deze leeruitkomst heb ik gebruik gemaakt of ga ik gebruik maken van Sonarcloud en SonarLint en ook schrijf ik unit tests voor de kernfuncties van de applicatie.  Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc).
+
+
+<img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
