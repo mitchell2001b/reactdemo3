@@ -6,7 +6,6 @@ import Home from './pages/Home';
 import Products from './pages/Products';
 import AccountComponent from './components/AccountComponent';
 import Form from './components/Form';
-import AccountDetails from './pages/AccountDetails';
 import AccountDetComponent from './components/AccountDetComponent';
 import AccountUpdateFormComponent from './components/AccountUpdateFormComponent';
 import TaskComponent from './components/TaskComponent';

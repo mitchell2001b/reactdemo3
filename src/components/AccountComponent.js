@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import AccountService from "../services/AccountService";
-import UserService from '../services/AccountService';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import './general.css';
