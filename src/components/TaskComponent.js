@@ -7,8 +7,8 @@ import DeleteTask from './TaskDelete';
 import { MarkTaskAsCompleted } from "./TaskUpdateFunctions";
 class TaskComponent extends Component
 {
-   isAdmin = true; 
-   user = { accountid: 3}
+   isAdmin = false; 
+   user = { accountid: 5}
    constructor(props)
    {
        super(props)
@@ -49,14 +49,12 @@ class TaskComponent extends Component
    
    render(){
        //alert(JSON.stringify(this.state.tasks));
-           
-       if(this.isAdmin)
-       {
+                
         return(
-         
+                     
             <div className="container-md">
                 <br></br>
-                <h1 id="TaskListHeader">Tasks Admin</h1>
+                <h1 id="TaskListHeader">Tasks</h1>
                 {    
                    
                         <table className="table table-dark">               
@@ -78,10 +76,13 @@ class TaskComponent extends Component
                                       <td> {task.taskid} </td>                
                                       <td> {task.title} </td>                 
                                       <td> {task.description} </td>
-                                      <td> {String(task.completed)}</td>                                                                    
-                                      <td><a href={"tasks/" + task.taskid} class="link-primary">Details</a></td>                                                              
-                                      <td><button type="button" class="btn btn-primary" onClick={() => DeleteTask(task.taskid)}>Edit</button></td>
-                                      <td><button type="button" class="btn btn-danger" onClick={() => DeleteTask(task.taskid)}>Delete</button></td>            
+                                      <td> {String(task.completed)}</td>
+                                      {this.isAdmin ?  <td><a href={"tasks/" + task.taskid} class="link-primary">Details</a></td> : <td><a href={"tasks/" + task.taskid} class="link-primary">Details</a></td> }
+                                      {this.isAdmin ?   <td><button type="button" class="btn btn-primary" onClick={() => DeleteTask(task.taskid)}>Edit</button></td> : task.completed ? <td></td> : <td><button type="button" class="btn btn-primary" onClick={() => MarkTaskAsCompleted(task.taskid, true)}>Mark as completed</button></td>  }    
+                                      {this.isAdmin ?   <td><button type="button" class="btn btn-danger" onClick={() => DeleteTask(task.taskid)}>Delete</button></td>   : <td></td> }                                                                    
+                                                                                             
+                                     
+                                               
                                       </tr>            
                                           ))           
                                   }         
@@ -94,48 +95,7 @@ class TaskComponent extends Component
                  
                
            )
-       }
-       else
-       {
-        return(
          
-            <div className="container-md">
-                <br></br>
-                <h1 id="TaskListHeader">Tasks</h1>
-                {    
-                   
-                        <table className="table table-dark">               
-                        <tbody>
-                            <tr>
-                             <th>Id</th>
-                             <th>Title</th>
-                             <th>Description</th>
-                             <th>Completed</th>                             
-                             <th></th>
-                             <th></th>                           
-                            </tr>            
-                                  {         
-                                          
-                                      this.state.tasks.map(task => (                         
-                                              
-                                      <tr key={task.taskid}>                 
-                                      <td> {task.taskid} </td>                
-                                      <td> {task.title} </td>                 
-                                      <td> {task.description} </td>
-                                      <td> {String(task.completed)} </td>                                                                    
-                                      <td><a href={"tasks/" + task.taskid} class="link-primary">Details</a></td>                                                                                                                                     
-                                      <td><button type="button" class="btn btn-primary" onClick={() => MarkTaskAsCompleted(task.taskid, true)}>Mark as completed</button></td>             
-                                      </tr>            
-                                          ))           
-                                  }         
-                              </tbody>
-                           </table>               
-                    }      
-            </div>
-                 
-               
-           )
-       }
       
    }
 }

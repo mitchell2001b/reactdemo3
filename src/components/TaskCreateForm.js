@@ -37,7 +37,10 @@ class TaskCreateForm extends Component {
     HandleAccountChange = (event) => {
         alert(JSON.stringify(this.state.account));
         this.setState({
-            account: event.target.value
+            account: {
+                "accountid": event.target.value
+            }
+        
         })
 
         
@@ -80,36 +83,37 @@ class TaskCreateForm extends Component {
     render() {
         return (
             <div className="container-md">
-                <h1 id="AccountListHeader">Accounts</h1>
-                <br></br>
-                {
-                    <form onSubmit={this.HandleSubmit}>
-                        <div>
-                            <label>Title</label>
-                            <input type='text' value={this.state.title} onChange={this.HandleTitleChange}></input>
-                        </div>
-                        <div>
-                            <label>Description</label>
-                            <input type='text' value={this.state.description} onChange={this.HandleDescriptionChange}></input>
-                        </div>
-                        <div>
-                            <label>Account</label>
-                            <select value={this.state.account} onChange={this.HandleAccountChange}>         
-                            {                                                              
-                                this.state.accounts.map(account => (
-                                    console.log(account.accountid),
-                                    <option key={account.accountid} value={account.accountid}>{account.email}</option>
+            <h1 id="AccountListHeader">Accounts</h1>
+            <br></br>
+            {
+                <form onSubmit={this.HandleSubmit}>
+                    <div>
+                        <label>Title</label>
+                        <input type='text' value={this.state.title} onChange={this.HandleTitleChange}></input>
+                    </div>
+                    <div>
+                        <label>Description</label>
+                        <input type='text' value={this.state.description} onChange={this.HandleDescriptionChange}></input>
+                    </div>
+                    <div>
+                        <label>Account</label>
+                        <select value={this.state.account} onChange={this.HandleAccountChange}>         
+                        {                                                              
+                            this.state.accounts.map(account => (
+                                console.log(account.accountid),
+                                <option key={account.accountid} value={account.accountid}>{account.email}</option>
 
-                                ))
-                            }
-                            </select>
-                        </div>                       
-                        <button type='submit'>Submit</button>
-                        
-                   </form>
-                }
-            </div>
-        )
+                            ))
+                        }
+                        </select>
+                    </div>                       
+                    <button type='submit'>Submit</button>
+                    
+               </form>
+            }
+        </div>
+            
+         )
 
     }
 
