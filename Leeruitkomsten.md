@@ -18,16 +18,27 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 
 ## Leeruitkomst 2: Software quality 
 
-Voor deze leeruitkomst heb ik gebruik gemaakt of ga ik gebruik maken van Sonarcloud en SonarLint en ook schrijf ik unit tests voor de kernfuncties van de applicatie.  Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc).
+Voor deze leeruitkomst heb ik gebruik gemaakt of ga ik gebruik maken van Sonarcloud en SonarLint en ook schrijf ik unit tests voor de kernfuncties van de applicatie.  Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc). 
+
+Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren zo heb ik bijvoorbeeld bij sommige van mijn controller en services methoden de objecten die ik mee geef veranderd naar dto's in plaats van de echte eniteiten
+
+![image](https://user-images.githubusercontent.com/79633852/169029114-bed85048-505c-4621-9c05-37df8899118b.png)
+![image](https://user-images.githubusercontent.com/79633852/169029236-3ec2a0db-8fd3-481b-9dfe-54d1c729255b.png)
+
 
 
 <img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
 
 ## Leeruitkomst 4: CI/CD
-Voor deze leeruitkomst ga ik git gub actions gebruiken om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch.
+Voor deze leeruitkomst ga ik git gub actions gebruiken om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd.
 
 
 <img width="406" alt="github" src="https://user-images.githubusercontent.com/79633852/164170917-14271118-9214-4c5c-affe-d73bfcecd5f3.PNG">
+
+Ook heb ik een github actions opgezet voor mijn docker compose. Dit zorgt ervoor dat ik mijn app in een keer kan opstarten. Ook kan ik mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up te runnen.
+
+![image](https://user-images.githubusercontent.com/79633852/169034793-a15120b6-2bba-4a8c-a25c-7a0a64912fcd.png)
+
 
 
 ## Leeruitkomst 8: Professional
