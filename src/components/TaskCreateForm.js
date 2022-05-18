@@ -82,22 +82,20 @@ class TaskCreateForm extends Component {
 
     render() {
         return (
-            <div className="container-md">
-            <h1 id="AccountListHeader">Accounts</h1>
-            <br></br>
-            {
+            <div class="d-flex justify-content-center">
+
                 <form onSubmit={this.HandleSubmit}>
-                    <div>
-                        <label>Title</label>
-                        <input type='text' value={this.state.title} onChange={this.HandleTitleChange}></input>
-                    </div>
-                    <div>
-                        <label>Description</label>
-                        <input type='text' value={this.state.description} onChange={this.HandleDescriptionChange}></input>
-                    </div>
-                    <div>
-                        <label>Account</label>
-                        <select value={this.state.account} onChange={this.HandleAccountChange}>         
+                <div class="form-group">
+                    <label for="Title">Email address</label>
+                    <input type="text" class="form-control" aria-describedby="title" placeholder="Enter title" onChange={this.HandleTitleChange}></input>
+                </div>
+                <div class="form-group">
+                    <label for="description">Password</label>
+                    <input type="text" class="form-control" id="description" placeholder="Enter description" onChange={this.HandleDescriptionChange}></input>
+                </div>
+                <div class="form-group col-md-4">
+                    <label>Account</label>
+                        <select value={this.state.account.accountid} onChange={this.HandleAccountChange}>         
                         {                                                              
                             this.state.accounts.map(account => (
                                 console.log(account.accountid),
@@ -106,12 +104,12 @@ class TaskCreateForm extends Component {
                             ))
                         }
                         </select>
-                    </div>                       
-                    <button type='submit'>Submit</button>
-                    
-               </form>
-            }
-        </div>
+                </div>
+                <br></br>
+                <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+                         
+            </div>
             
          )
 
