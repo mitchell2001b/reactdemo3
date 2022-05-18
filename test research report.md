@@ -1,11 +1,11 @@
-##
-Research report unit tests.
+### Research report unit tests.
 
-##De vraag in het algemeen
+
+## De vraag in het algemeen
 Dit research report over unit test schrijf ik, omdat ik me afvroeg wat nou precies belangrijk is om te testen en wat juist niet belangrijk is om te testen in een fullstack application. Voor dit onderzoek ben ik er van uit gegaan dat ik met React, Springboot en een ORM werk. 
 
 
-##Wat is handig om te testen in de frontend?
+## Wat is handig om te testen in de frontend?
 Voor het frontend gedeelte van mijn project gebruik ik react js. Na wat onderzoek gedaan te hebben. Heb ik uit kunnen maken dat deze volgende punten belangrijk zijn om te testen in je frontend.
 
 •	User interactie: User interactie dingen zoals onclick of callback events zijn belangrijk om te testen, omdat dit waarschijnlijk de manier gaat zijn over hoe de toekomstige gebruiker de applicatie gaat gebruiken het is dus belangrijk dat een knop als daarop gedrukt wordt ook precies doet wat hij moet doen.
@@ -18,7 +18,7 @@ Voor het frontend gedeelte van mijn project gebruik ik react js. Na wat onderzoe
 
 
 
-##Wat is handig om te testen in de backend?
+## Wat is handig om te testen in de backend?
 
 •	User Custom Queries in de Repositories: Voor mijn backend gebruik ik een ORM die gebruikt maakt van repositories. De basis ORM-functies zoals save en delete zijn niet nodig om te testen want deze worden immers al getest door jpa zelf. Waar ik wel achter ben gekomen is dat je als je custom queries aanmaakt en gebruikt om deze wel te testen.
 
@@ -28,7 +28,7 @@ Voor het frontend gedeelte van mijn project gebruik ik react js. Na wat onderzoe
 
 
 
-Conclusie
+## Conclusie
 
 Na al deze onderzoeken te doen heb ik dus de volgende dingen besloten die ik ga en of al heb toegepast in mijn eigen project.
 
@@ -42,3 +42,10 @@ Na al deze onderzoeken te doen heb ik dus de volgende dingen besloten die ik ga 
 -Mijn Controllers/endpoints testen.
 
 De testen voor de service klassen laat ik voor nu zitten, omdat ik niet echt hele complexe logica heb op dit moment.
+
+
+## Bronnen
+https://www.youtube.com/watch?v=OVNjsIto9xM&t=343s
+https://www.youtube.com/watch?v=Geq60OVyBPg&t=3082s
+https://www.baeldung.com/spring-boot-testing
+https://www.marcobehler.com/2014/09/25/should-you-test-your-orm-mappings-2
