@@ -39,25 +39,25 @@ class TaskUpdateComponent extends Component{
 
     render()
     {
-       if(this.state.isAdmin)
-       {
-            return(
-                <form onSubmit={this.HandleSubmit}>
-                    <div>
-                        <label>Title</label>
-                        <input type='text' value={this.state.title} onChange={this.HandleTitleChange}></input>
-                    </div>
-                    <div>
-                        <label>Description</label>
-                        <input type='text' value={this.state.description} onChange={this.HandleDescriptionChange}></input>
-                    </div>
+        return(
+         <div class="d-flex justify-content-center">
 
-                    <button type='submit'>Submit</button>
-                </form>
-            ) 
-       }
-       
-           
+            <form onSubmit={this.HandleSubmit}>
+            <div class="form-group">
+                <label for="Title" style="color:white">Title</label>
+                <input type="text" class="form-control" aria-describedby="title" placeholder="Enter title" onChange={this.HandleTitleChange}></input>
+            </div>
+            <div class="form-group">
+                <label for="description" style="color:white">Description</label>
+                <input type="text" class="form-control" id="description" placeholder="Enter description" onChange={this.HandleDescriptionChange}></input>
+            </div>
+            <br></br>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+                     
+         </div>
+            
+        )        
     }
 
 }

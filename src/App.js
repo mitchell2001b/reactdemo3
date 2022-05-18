@@ -11,6 +11,7 @@ import AccountUpdateFormComponent from './components/AccountUpdateFormComponent'
 import TaskComponent from './components/TaskComponent';
 import TaskCreateForm from './components/TaskCreateForm';
 import TaskDetailsComponent from './components/TaskDetailsComponent';
+import TaskUpdateComponent from './components/TaskUpdateComponent';
 
 
 
@@ -29,6 +30,7 @@ function App() {
         <Route path='/tasks/:id' element={<TaskDetailsComponent/>} />
         <Route path='/accounts/update/:id' element={<AccountUpdateFormComponent/>} />  
         <Route path='/taskform' element={<TaskCreateForm/>} />
+        <Route path='/tasks/update/:id' element={<TaskUpdateComponent/>} />
       </Routes>
     </Router>
   );

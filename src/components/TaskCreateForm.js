@@ -86,15 +86,15 @@ class TaskCreateForm extends Component {
 
                 <form onSubmit={this.HandleSubmit}>
                 <div class="form-group">
-                    <label for="Title">Email address</label>
+                    <label for="Title" style="color:white">Title</label>
                     <input type="text" class="form-control" aria-describedby="title" placeholder="Enter title" onChange={this.HandleTitleChange}></input>
                 </div>
                 <div class="form-group">
-                    <label for="description">Password</label>
+                    <label for="description" style="color:white">Description</label>
                     <input type="text" class="form-control" id="description" placeholder="Enter description" onChange={this.HandleDescriptionChange}></input>
                 </div>
                 <div class="form-group col-md-4">
-                    <label>Account</label>
+                    <label style="color:white">Employee</label>
                         <select value={this.state.account.accountid} onChange={this.HandleAccountChange}>         
                         {                                                              
                             this.state.accounts.map(account => (
