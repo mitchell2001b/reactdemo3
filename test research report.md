@@ -45,7 +45,7 @@ De testen voor de service klassen laat ik voor nu zitten, omdat ik niet echt hel
 
 
 ## Bronnen
-https://www.youtube.com/watch?v=OVNjsIto9xM&t=343s
-https://www.youtube.com/watch?v=Geq60OVyBPg&t=3082s
-https://www.baeldung.com/spring-boot-testing
-https://www.marcobehler.com/2014/09/25/should-you-test-your-orm-mappings-2
+Bron1: https://www.youtube.com/watch?v=OVNjsIto9xM&t=343s
+Bron2: https://www.youtube.com/watch?v=Geq60OVyBPg&t=3082s
+Bron3: https://www.baeldung.com/spring-boot-testing
+Bron4: https://www.marcobehler.com/2014/09/25/should-you-test-your-orm-mappings-2
