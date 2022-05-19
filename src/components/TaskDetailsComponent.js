@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { useParams } from "react-router-dom";
+import { GetTaskByIdFromApi } from "./GetTask";
 import DeleteTask from './TaskDelete';
 export function withRouter(Children){
     return(props)=>{
@@ -21,30 +22,15 @@ export function withRouter(Children){
 
   
     componentDidMount() {
-        const url = `http://localhost:8080/api/v1/task/${this.props.match.params.id}`;
-
-        async function getData() {
-           
-            const response = await fetch(url)   
-            
-            const data = await response.json().catch(error => console.log(error));
-             
-            return data;
-          }
-
-        alert(getData())
-        getData().then((result) => {
-        
-            
-            this.setState({
-                task: result
-            })
-            
-            alert(JSON.stringify(this.state.task.account.email));
-        });
-        
-        //alert(this.props.match.params.id);
        
+        //alert(this.props.match.params.id);
+        GetTaskByIdFromApi(this.props.match.params.id).then((result) => {
+
+            this.setState({
+                task: result,
+                
+            })
+        }) 
               
      }
     
@@ -68,15 +54,15 @@ export function withRouter(Children){
                              
                                                 
                                  
-                         <tr>                 
-                         <td> {this.state.task.taskid} </td>                
+                          <tr>                 
+                          <td> {this.state.task.taskid} </td>                
                           <td> {this.state.task.title} </td>                 
                           <td> {this.state.task.description} </td>                                         
-                          <td> {this.state.task.completed} </td>
+                          <td> {String(this.state.task.completed)} </td>
                           <td> {this.state.task.createdat} </td> 
                           <td> {this.state.task.account.email} </td>                                        
-                          <td><button type="button" className="btn btn-danger" onClick={() => DeleteTask(this.state.task.taskid)}>Delete</button></td>
-                          <td><button type="button" className="btn btn-danger" onClick={() => DeleteTask(this.state.task.taskid)}>Edit</button></td>            
+                          <td><a href={"update/" + this.state.task.taskid} class="link-primary">Edit</a></td>
+                          <td><button type="button" className="btn btn-danger" onClick={() => DeleteTask(this.state.task.taskid)}>Delete</button></td>            
                           </tr>            
                          
                      </tbody>
