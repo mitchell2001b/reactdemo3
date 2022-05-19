@@ -4,10 +4,10 @@ import Button from 'react-bootstrap/Button';
 import './general.css';
 import './TaskList.css';
 import DeleteTask from './TaskDelete';
-import { MarkTaskAsCompleted } from "./TaskUpdateFunctions";
+import { UpdateTaskCompletedStatus } from "./TaskUpdateFunctions";
 class TaskComponent extends Component
 {
-   isAdmin = false; 
+   isAdmin = true; 
    user = { accountid: 3}
    constructor(props)
    {
@@ -78,7 +78,7 @@ class TaskComponent extends Component
                                       <td> {task.description} </td>
                                       <td> {String(task.completed)}</td>
                                       {this.isAdmin ?  <td><a href={"tasks/" + task.taskid} class="link-primary">Details</a></td> : <td><a href={"tasks/" + task.taskid} class="link-primary">Details</a></td> }
-                                      {this.isAdmin ?   <td><button type="button" class="btn btn-primary" onClick={() => DeleteTask(task.taskid)}>Edit</button></td> : task.completed ? <td></td> : <td><button type="button" class="btn btn-primary" onClick={() => MarkTaskAsCompleted(task.taskid, true)}>Mark as completed</button></td>  }    
+                                      {this.isAdmin ?   <td><a href={"tasks/update/" + task.taskid} class="link-primary">Edit</a></td> : task.completed ? <td><button type="button" class="btn btn-danger" onClick={() => UpdateTaskCompletedStatus(task.taskid, false)}>Mark as uncompleted</button></td> : <td><button type="button" class="btn btn-primary" onClick={() => UpdateTaskCompletedStatus(task.taskid, true)}>Mark as completed</button></td>  }    
                                       {this.isAdmin ?   <td><button type="button" class="btn btn-danger" onClick={() => DeleteTask(task.taskid)}>Delete</button></td>   : <td></td> }                                                                    
                                                                                              
                                      
