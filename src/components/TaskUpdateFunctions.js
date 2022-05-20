@@ -38,4 +38,4 @@ export async function UpdateTaskDetails(taskId, title, description, accountid)
      window.location.reload(true);
 }
 
-//sonar test
+//sonar testt
