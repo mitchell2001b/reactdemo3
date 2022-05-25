@@ -46,6 +46,12 @@ Voor de frontend heb ik ook wat testen gemaakt. Ik heb hier onder andere end to 
 
 Deze frontend testen zijn echter nu niet meer zo belangrijk, omdat ik nu de end to end testen in de backend heb gemaakt.
 
+Als laatste had ik ook uitgeprobeerd om mijn testen dus automatisch te laten runnen doormiddel van een githubaction workflow. Elke keer als ik nu een commit push doe naar de main branch dan runt deze workflow en worden dus alle testen uitgevoerd zo kan ik dus zien of er testen falen nadat ik een grote verandering aan een bepaald deel van de applicatie heb gedaan.
+
+![image](https://user-images.githubusercontent.com/79633852/170329723-1635ad10-6437-4258-bbf8-ce95578e8997.png)
+![image](https://user-images.githubusercontent.com/79633852/170331379-34a094c1-1c37-490c-bd09-9c85404873f9.png)
+
+
 ## Conclusie
 
 Na al deze onderzoeken te doen heb ik dus de volgende dingen besloten die ik ga en of al heb toegepast in mijn eigen project.
@@ -54,12 +60,16 @@ Na al deze onderzoeken te doen heb ik dus de volgende dingen besloten die ik ga 
 -User interactie tests
 -React components voor belangrijke kernfuncties zoals het aanpassen van een Task
 -Als er nog tijd over is ben ik ook van plan tests voor conditional rendering elementen.
+-Github workflow aanmaken voor de automatisering.
 
 •	Voor de backend:
 -Mijn custom queries van mijn repositories testen.
 -Mijn Controllers/endpoints testen.
+-Github workflow aanmaken voor de automatisering.
+
 
 De testen voor de service klassen laat ik voor nu zitten, omdat ik niet echt hele complexe logica heb op dit moment.
+
 
 
 ## Bronnen
@@ -70,3 +80,5 @@ Bron2: https://www.youtube.com/watch?v=Geq60OVyBPg&t=3082s
 Bron3: https://www.baeldung.com/spring-boot-testing
 
 Bron4: https://www.marcobehler.com/2014/09/25/should-you-test-your-orm-mappings-2
+
+Bron5: https://www.youtube.com/watch?v=gAkwW2tuIqE
