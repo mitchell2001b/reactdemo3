@@ -29,7 +29,7 @@ Voor het frontend gedeelte van mijn project gebruik ik react js. Na wat onderzoe
 Je kunt je testen automatisch laten runnen door middel van een Github actions of een andere CI pipeline te gebruiken. Met github actions kun je instellen dat je testen automatisch runnen als je bijvoorbeeld een commit push of published ook kun je dit combineren met docker containers zodat je eventueel verschillende versies hebt of je project makkelijk en snel op een andere machine wilt deployen.
 
 
-### Methodes/controle
+## Methodes/controle
 
 Om te kunnen zien of de bronnen kloppen heb ik zelf wat van deze tests geschreven in mijn individuele project. Als eerste heb ik in de backend een paar repository, en end point/controller tests gemaakt. 
 
@@ -41,10 +41,10 @@ Hier een paar foto's van enkele tests die ik heb geschreven.
 
 Deze tests heb ik met de springboot test dependency geshreven en ook met hulp van een in memory database genaamd h2 en mock mvc zodat mijn service klassen gemocked zijn.
 
+Voor de frontend heb ik ook wat testen gemaakt. Ik heb hier onder andere end to end testsen gemaakt die mijn api calls naar de backend testen.
+![image](https://user-images.githubusercontent.com/79633852/170304836-781f3946-4132-4915-a9a9-b9a4d5401c95.png)
 
-
-
-
+Deze frontend testen zijn echter nu niet meer zo belangrijk, omdat ik nu de end to end testen in de backend heb gemaakt.
 
 ## Conclusie
 
