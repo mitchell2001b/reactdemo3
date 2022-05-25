@@ -1,6 +1,6 @@
-## Research report SQL injections
+## Hoe schadelijk zijn SQL injecties voor mijn applicatie?
 
-Waarom SQL injection als onderwerp.
+### Waarom SQL injection als onderwerp?
 
 Omdat je vrijwel bijna altijd als je een web based applicaties een database zult nodig hebben, Zijn SQL injections belangrijk om of zoveel mogelijk te voorkomen. Ook ga ik voor mijn individuele project waarschijnlijk een MySQL database gebruiken en daarom ben ik zelf ook graag benieuwd hoe en op welke manieren ik dit kan tegengaan en wat nou precies een sql injectie is.
 
@@ -9,7 +9,7 @@ Omdat je vrijwel bijna altijd als je een web based applicaties een database zult
 Een SQL injection is een soort beveiligingsprobleem dat kan voorkomen op websites of andere onlineapplicaties. Het maakt het mogelijk voor een gebruiker om queries die de applicatie naar de database maakt aan te passen. Door deze aanpassingen kan de gebruiker extra informatie ophalen die in principe niet voor een gewone gebruiker bedoeld is. Ook kan de gebruiker deze informatie veranderen of zelfs verwijderen. De impact van een succesvolle SQL-injectie zijn groot, zo kan een gebruiker ongeautoriseerde toegang krijgen tot gevoelige informatie zoals wachtwoorden en eventuele persoonlijke informatie van andere gebruikers.
 Ook kan een succesvolle injectie leiden tot grote datalekken die dan weer leiden tot mogelijke boetes van toezichthouders en reputatie schade voor het getroffen bedrijf/applicatie. Ook is het zelfs mogelijk voor de gebruiker die de injectie heeft uitgevoerd om een mogelijke achterdeur naar het systeem van het bedrijf krijgen die soms heel lang onopgemerkt kan blijven. 
 
-### Verschillende soorten SQL injections
+### welke Verschillende soorten SQL injecties zijn er?
 In-band SQL-injectie
 Een In-band SQL-injectie aanval is de eenvoudigste vorm van een injectie aanval. De gebruiker kan met hetzelfde communicatiekanaal de aanval uitvoeren en ook resultaten van de aanval ophalen.
 
@@ -35,7 +35,7 @@ Out of band SQL-injectie
 Een out of band SQL-injectie is eigen hetzelfde als een in band alleen in plaats van met hetzelfde kanaal de aanval en resultaten op te halen laat de gebruiker de database resultaten sturen naar een externe locatie die door de gebruiker is bepaald.
 Hoe kan je SQL-injecties tegengaan?
 
-### Om SQL-injecties tegen te gaan kun je een aantal dingen doen.
+### Op welke manieren kan ik mijn applicatie beschermen tegen SQL injecties?.
 •	User input valideren
 Je kunt injecties tegengaan door bijvoorbeeld validatie op user input te doen. Je maakt het bijvoorbeeld onmogelijk om maken om komma’s, punten, andere tekens en spaties etc in te voeren. 
 •	Prepared statement gebruiken. Met prepared statements stel je de query eigenlijk al vast (een soort template) waaraan je later nog parameters aan kan geven om deze vervolgens uit te voeren. Hieronder zie je een voorbeeld van een prepared statement in C#.
