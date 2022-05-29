@@ -20,6 +20,16 @@ Verder hebben we voor deze applicatie ook unit testen geschreven doormiddel van 
 
 ### 3. Agile method
 
+Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van het scrum framework tijdens het realiseren van ons project. Dit houdt in dat wij elke dag om 8:30 standups houden om te kunnen zien wat iedereen van plan was om die dag te gaan toen en om te kijken wat iedereen de vorige dag had gedaan. Verder leggen wij ook alle werkzaamheden waar iedereen mee bezig is vast in een trello bord. Zo kunnen mensen die bijvoorbeeld de standup gemist hebben snel kijken op het trello bord om te zien waar iedereen mee bezig is. 
+
+![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
+
+
+ Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen.
+ 
+ ![image](https://user-images.githubusercontent.com/79633852/170870641-02065c14-3950-4781-ab73-3163ee180b7e.png)
+
+ 
 
 ### 5. Cutural diffrences and ethnics
 
