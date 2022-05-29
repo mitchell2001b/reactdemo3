@@ -25,9 +25,11 @@ Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van 
 ![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
 
 
- Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen.
+ Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen. Onze reflectie leggen we uiteindelijk vast in feedpulse.
  
  ![image](https://user-images.githubusercontent.com/79633852/170870641-02065c14-3950-4781-ab73-3163ee180b7e.png)
+ ![image](https://user-images.githubusercontent.com/79633852/170870885-f1999222-7b0b-40ee-8def-d3d416e38735.png)
+
 
  
 
