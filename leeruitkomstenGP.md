@@ -22,14 +22,13 @@ Verder hebben we voor deze applicatie ook unit testen geschreven doormiddel van 
 
 Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van het scrum framework tijdens het realiseren van ons project. Dit houdt in dat wij elke dag om 8:30 standups houden om te kunnen zien wat iedereen van plan was om die dag te gaan toen en om te kijken wat iedereen de vorige dag had gedaan. Verder leggen wij ook alle werkzaamheden waar iedereen mee bezig is vast in een trello bord. Zo kunnen mensen die bijvoorbeeld de standup gemist hebben snel kijken op het trello bord om te zien waar iedereen mee bezig is. 
 
-![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
 
 
- Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen. Onze reflectie leggen we uiteindelijk vast in feedpulse.
+Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen. Onze reflectie leggen we uiteindelijk vast in feedpulse.
  
  ![image](https://user-images.githubusercontent.com/79633852/170870641-02065c14-3950-4781-ab73-3163ee180b7e.png)
  ![image](https://user-images.githubusercontent.com/79633852/170870885-f1999222-7b0b-40ee-8def-d3d416e38735.png)
-
+ ![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
 
  
 
@@ -38,17 +37,11 @@ Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van 
 
 ### 6. Requirements and design
 
-Om ons project voor onze proftaak te realiseren hebben wij user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. 
-
+Om ons project voor onze proftaak te realiseren hebben wij user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden wij ook een interview gedaan met de klant waarbij wij een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
+ 
 ![image](https://user-images.githubusercontent.com/79633852/170892632-bc196d4b-07c9-4193-9934-a712dd414689.png)
 
-Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten.
-
 ![image](https://user-images.githubusercontent.com/79633852/170892691-ed2f80a9-fa22-4e95-867b-6ddd982028ed.png)
-
-
-
-Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden wij ook een interview gedaan met de klant waarbij wij een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
 
 ![image](https://user-images.githubusercontent.com/79633852/170892608-12e325cc-52ee-4d10-9762-b879eb5f6450.png)
 
