@@ -53,6 +53,11 @@ Dit trello bord heb ik ook gemaakt zodat ik een soort van planning heb waar ik m
 ![image](https://user-images.githubusercontent.com/79633852/171236830-ecd02b32-6f6d-4f1e-90d0-6cac545d1276.png)
 ![image](https://user-images.githubusercontent.com/79633852/171237038-5fb11825-b762-4696-a016-ea915c983245.png)
 
+Mijn feedback die ik van de stakeholders heb gekregen leg ik vast in feedpulse
+
+![image](https://user-images.githubusercontent.com/79633852/171257923-203a4d6d-ece3-4a85-b9e1-d0aebdace28b.png)
+
+
 
 
 
