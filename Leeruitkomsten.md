@@ -30,7 +30,8 @@ Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren
 <img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
 
 ## Leeruitkomst 4: CI/CD
-Voor deze leeruitkomst ga ik git gub actions gebruiken om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd.
+Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd en de h2 database gebruikt niet mijn schijf om dingen op te slaan. De reden waarom ik mijn testen automatisch heb laten draaien is, omdat ik zo kan zien of de oude code nog goed werkt nadat ik een grote feature bijvoorbeeld heb toegevoegd.
+
 
 
 <img width="406" alt="github" src="https://user-images.githubusercontent.com/79633852/164170917-14271118-9214-4c5c-affe-d73bfcecd5f3.PNG">
