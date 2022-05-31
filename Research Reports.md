@@ -1,4 +1,4 @@
-## Hoe kan ik SQL injections tegenhouden in een applicatie?
+## Hoe kan ik SQL injections tegenhouden in mijn applicatie?
 
 ### Waarom SQL injection als onderwerp?
 
