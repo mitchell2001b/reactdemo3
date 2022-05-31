@@ -49,7 +49,11 @@ Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel
 
 ### 7. Business processes 
 
-Voor deze leeruitkomst heb ik
+Voor deze leeruitkomst heb ik een process in kaart gebracht van het bedrijf waar ik momenteel een bijbaan heb (Taxi vervoer Van Driel) Het Proces wat ik heb gekozen om in kaart te brengen is het afhandelen van een klacht, omdat ik normaal altijd dacht dat dit heel simpel en kort was maar ik kwam er al gauw achter dat er best een groot process achter zit (bij dit bedrijf in elk geval). De rollen die bij dit process betrokken zijn zijn:
+
+* Klant: De persoon die de klacht heeft ingediend bij het bedrijf.
+* bedrijf: het bedrijf in het algemeen is betrokken bij het afhandelen van een klacht meestal zijn dit 1 of meerdere medewerkers/klanten service personen.
+
 ![image](https://user-images.githubusercontent.com/79633852/171279399-55c1f0ad-ea77-4bcc-991f-7833820dfd9d.png)
 
 
