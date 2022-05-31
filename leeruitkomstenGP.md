@@ -24,7 +24,7 @@ Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van 
 
 
 
-Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen. Onze reflectie leggen we uiteindelijk vast in feedpulse.
+Na elke sprint hield ik met mijn groep ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen. Onze reflectie leggen we uiteindelijk vast in feedpulse.
  
  ![image](https://user-images.githubusercontent.com/79633852/170870641-02065c14-3950-4781-ab73-3163ee180b7e.png)
  ![image](https://user-images.githubusercontent.com/79633852/170870885-f1999222-7b0b-40ee-8def-d3d416e38735.png)
@@ -37,7 +37,7 @@ Na elke sprint houden wij ook een reflecie ronden over wat we hebben gedaan afge
 
 ### 6. Requirements and design
 
-Om ons project voor onze proftaak te realiseren hebben wij user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden wij ook een interview gedaan met de klant waarbij wij een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
+Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel gediscussieerd en uiteindelijk user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden wij ook een interview gedaan met de klant waarbij wij een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
  
 ![image](https://user-images.githubusercontent.com/79633852/170892632-bc196d4b-07c9-4193-9934-a712dd414689.png)
 
@@ -48,6 +48,9 @@ Om ons project voor onze proftaak te realiseren hebben wij user stories gemaakt 
 
 
 ### 7. Business processes 
+
+Voor deze leeruitkomst heb ik
+![image](https://user-images.githubusercontent.com/79633852/171279399-55c1f0ad-ea77-4bcc-991f-7833820dfd9d.png)
 
 
 ### 8. Professional 
