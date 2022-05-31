@@ -2,7 +2,7 @@
 
 
 ## De vraag in het algemeen
-Dit research report over unit test schrijf ik, omdat ik me afvroeg wat nou precies belangrijk is om te testen en wat juist niet belangrijk is om te testen in een fullstack application. Voor dit onderzoek ben ik er van uit gegaan dat ik met React, Springboot en een ORM werk. 
+Dit research report over unit test schrijf ik, omdat ik me afvroeg wat nou precies belangrijk is om te testen en wat juist niet belangrijk is om te testen in een fullstack application ook om waarom het handig is om je testen automatisch te laten runnen en hoe dit kan bereiken. Voor dit onderzoek ben ik er van uit gegaan dat ik met React, Springboot en een ORM werk. 
 
 
 ## Wat is handig om te testen in de frontend?
@@ -24,7 +24,9 @@ Voor het frontend gedeelte van mijn project gebruik ik react js. Na wat onderzoe
 
 •	Service tests: Deze tests kunnen handig zijn als je eigen complexe logica/controles hebt geschreven in je service, als je dat niet hebt is het niet zo belangrijk.
 
-## Hoe kan ik mijn gemaakte unitesten automatisch uitvoeren?
+## Hoe kan ik mijn gemaakte unitesten automatisch uitvoeren en waarom is dit handig?
+
+Unit testen automatisch laten draaien is handig omdat, als je een nieuwe groote feature hebt toegevoegd je dan meteen snel kan controleren of al je oude code nog goed werkt. Als je testen niet automatisch zijn zou je hier pas veel later achter kunnen komen als dit zo was.
 
 Je kunt je testen automatisch laten runnen door middel van een Github actions of een andere CI pipeline te gebruiken. Met github actions kun je instellen dat je testen automatisch runnen als je bijvoorbeeld een commit push of published ook kun je dit combineren met docker containers zodat je eventueel verschillende versies hebt of je project makkelijk en snel op een andere machine wilt deployen.
 
