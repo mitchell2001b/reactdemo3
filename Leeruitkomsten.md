@@ -43,5 +43,14 @@ Ook heb ik een github actions opgezet voor mijn docker compose. Dit zorgt ervoor
 
 ## Leeruitkomst 8: Professional
 
-Voor deze leeruitkomst maak ik een groepsproject met een proftaak groep en daarbij communiceer ik regelmatig met mijn andere groepsgenoten om te laten zien waar ik mee bezig ben of als ik ergens hulp mee nodig heb. Verder vraag ik voor mijn individuele project feedback aan mijn stakeholders om zo mijn voortgang te tonen aan hen. 
+Voor deze leeruitkomst maak ik een groepsproject met een proftaak groep en daarbij communiceer ik regelmatig met mijn andere groepsgenoten om te laten zien waar ik mee bezig ben of als ik ergens hulp mee nodig heb. Verder vraag ik voor mijn individuele project feedback aan mijn stakeholders om zo mijn voortgang te tonen aan hen. Verder heb ik ook research reports geschreven waarin ik mijn onderzoeken over bepaalde onderwerpen in detail uitleg hoe ik het heb aangepakt en waarom ik dit zo heb gedaan.
+
+Verder gebruik ik nog voor mijn individuele project nog een trello bord die ik bij houdt zodat ik kan zien waar ik nog aan moet werken en wat ik al heb gedaan.
+Dit trello bord heb ik ook gemaakt zodat ik een soort van planning heb waar ik mij aan kan houden.
+
+![image](https://user-images.githubusercontent.com/79633852/171236830-ecd02b32-6f6d-4f1e-90d0-6cac545d1276.png)
+![image](https://user-images.githubusercontent.com/79633852/171237038-5fb11825-b762-4696-a016-ea915c983245.png)
+
+
+
 
