@@ -40,6 +40,8 @@ Hier een paar foto's van enkele tests die ik heb geschreven.
 ![image](https://user-images.githubusercontent.com/79633852/170297614-72b71daf-1b70-4ad4-94f0-5db3f76a196b.png)
 ![image](https://user-images.githubusercontent.com/79633852/170297687-88f1595e-b7ab-40cd-aa3e-7e21e24e47c8.png)
 ![image](https://user-images.githubusercontent.com/79633852/170297751-8b2f2aa4-7670-4988-8095-3a5279089506.png)
+![image](https://user-images.githubusercontent.com/79633852/171357517-291d51b5-97b5-4db1-b31b-d87865453e37.png)
+
 
 Deze tests heb ik met de springboot test dependency geshreven en ook met hulp van een in memory database genaamd h2 en mock mvc zodat mijn service klassen gemocked zijn.
 
