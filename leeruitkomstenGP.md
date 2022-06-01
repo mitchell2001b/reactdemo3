@@ -60,6 +60,15 @@ Voor deze leeruitkomst heb ik een process in kaart gebracht van het bedrijf waar
 
 bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
 
+Ook heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoord:
+
+1. What is a business process?
+Een bedrijfsproces is een activiteit of een set van meerdere activiteiten die er voor moeten zorgen dat een doel van het bedrijf bereikt wordt.
+Bijvoorbeeld: het goed afhandelen van een klacht is een bedrijfsprocess.
+
+
+2.
+
 
 ### 8. Professional 
 
