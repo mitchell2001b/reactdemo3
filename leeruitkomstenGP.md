@@ -29,6 +29,8 @@ Na elke sprint hield ik met mijn groep ook een reflecie ronden over wat we hebbe
  ![image](https://user-images.githubusercontent.com/79633852/170870641-02065c14-3950-4781-ab73-3163ee180b7e.png)
  ![image](https://user-images.githubusercontent.com/79633852/170870885-f1999222-7b0b-40ee-8def-d3d416e38735.png)
  ![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
+ 
+ Zelf vond ik met werken met het scrum methode best wel fijn, omdat je op deze manier snel en makkelijk kon zien en bij kon houden waar iedereen mee bezig was. Het was ook heel fijn om op zo'n manier in een teamverband samen te kunnen werken.
 
  
 
