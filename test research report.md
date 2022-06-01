@@ -1,4 +1,4 @@
-### Hoe kan ik automatisch testen in mijn applicatie?
+### Hoe kan ik mijn testen automatisch laten draaien in mijn applicatie?
 
 
 ## De vraag in het algemeen
