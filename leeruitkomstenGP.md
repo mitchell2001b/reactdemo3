@@ -67,7 +67,10 @@ Een bedrijfsproces is een activiteit of een set van meerdere activiteiten die er
 Bijvoorbeeld: het goed afhandelen van een klacht is een bedrijfsprocess.
 
 
-2.
+2. How a business proces relates to software applications? 
+ALs je een software applicatie gaat maken zul je misschien als doel bereiken om een bepaald process of taak te automatiseren. Dit process kan een business process zijn bijvoorbeeld als je een systeem wilt maken dat automatisch orders wilt plaatsen dan zul je moeten weten hoe het bedrijfs process eruit ziet van het plaatsen van een order en deze vervolgens uitschrijven in code en funcionaliteit. Het maken van een applicatie kan opzich zelf ook een business process zijn je moet bijvoorbeeld een hele reeks aan activiteiten voldoen om de applicatie te realiseren.
+
+bron (https://itchronicles.com/business-process-management/business-process-management-in-software-companies/#:~:text=Business%20Process%20Management%20in%20software%20companies%20is%20more%20inclined%20towards,%2C%20testing%2C%20and%20deploying%20applications.)
 
 
 ### 8. Professional 
