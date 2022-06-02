@@ -36,3 +36,16 @@ Een software engineer krijgt als advies om zicht aan bepaalde principes te houde
 bron(https://ethics.acm.org/code-of-ethics/software-engineering-code/)
 
 
+How do you know that your ethical considerations match with those of other software engineers? 
+
+Om erachter te komen of je bijvoorbeeld in je project groep dezelfde ethische beslissingen neemt als je mede software ontwikkelaars zul je regelmatig binnen je groep moeten overleggen en discussieren over waarom je bepaalde dingen hebt gedaan. Ook moet je professioneel en respectvol overkomen tegen je mede projectgroep leden en eventuele stakeholders. 
+
+In mijn eigen project vraag ik ook steeds feedback aan mijn docent doormiddel van feedback gesprekken zodat ik regelmatig erachter kom of we nog ongeveer op zelfde lijn zitten.
+
+
+
+# Culture canvas vragen
+
+
+
+
