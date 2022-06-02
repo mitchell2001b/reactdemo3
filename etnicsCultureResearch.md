@@ -53,7 +53,28 @@ Cultuur is alles wat de mens maakt en doet. Cultuur verwijst naar activiteiten v
 bron(https://nl.wikipedia.org/wiki/Cultuur)
 
 
-### 2. Which are well-known dimensions on cultural differences? 
+### 2. Which are well-known dimensions on cultural differences?
+
+Om op deze vraag antwoord te geven had ik gekeken naar de theorie van Hofstede.
+
+<i>Onderzoek
+
+In 1966 werd een groot wetenschappelijk onderzoekproject uitgevoerd. Dit onderzoek bestond uit het invullen van een uitgebreide enquête door 116.000 medewerkers van een groot multinationaal bedrijf, IBM, in 50 verschillende landen. Onder deze landen bevonden zich minder en meer ontwikkelde landen. De enquêtes waren opgesteld in de taal van de verschillende landen: in totaal 20 talen. Het belangrijkste verschil tussen de respondenten was de cultuur. Er was naar gestreefd een zo goed mogelijke doorsnede per land te krijgen van leeftijden, sekse en type functie.
+Een statistische analyse van de resultaten leidde tot de volgende conclusie: in alle landen komen gemeenschappelijke problemen voor maar in ieder land zoekt men oplossingen, die verschillen met betrekking tot de volgende punten:
+
+1. maatschappelijke ongelijkheid, waaronder de houding ten opzichte van gezag
+2. de verhouding tussen individu en groep
+3. de gewenste rolverdeling tussen mannen en vrouwen: de maatschappelijke gevolgen van het geboren worden als jongen of als meisje
+4. manieren van omgaan met onzekerheid, waaronder de wenselijkheid van het beheersen van agressie en van het uiten van emoties
+5. Op grond van deze resultaten konden de volgende culturele dimensies worden gedefinieerd:
+
+1. ‘Machtsafstand’ (van klein naar groot)
+2. ‘Collectivisme’ tegenover ‘Individualisme’
+3. ‘Femininiteit’ tegenover ‘Masculiniteit’
+4. ‘Onzekerheidsvermijding’ (van zwak naar sterk) </i>
+
+
+bron(https://managementmodellensite.nl/vijf-cultuurdimensies-volgens-hofstede/#:~:text=Op%20grond%20van%20deze%20resultaten,'%20(van%20zwak%20naar%20sterk))
 
 
 
