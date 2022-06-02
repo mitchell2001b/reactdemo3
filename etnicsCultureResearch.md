@@ -46,6 +46,17 @@ In mijn eigen project vraag ik ook steeds feedback aan mijn docent doormiddel va
 
 # Culture canvas vragen
 
+### 1. What is culture? 
+
+Cultuur is alles wat de mens maakt en doet. Cultuur verwijst naar activiteiten van mensen en de symbolen die deze activiteiten een betekenis geven. Een voorbeeld van cultuur is bijvoorbeeld het maken van bepaalde gerechten(eten) of het bouwen van tempels/kerken etc. Cultuur is dus eigenlijk het tegenovergestelde van het begrip 'Natuur'.
+
+bron(https://nl.wikipedia.org/wiki/Cultuur)
+
+
+### 2. Which are well-known dimensions on cultural differences? 
+
+
+
 
 
 
