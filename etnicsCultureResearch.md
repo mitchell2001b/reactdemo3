@@ -79,7 +79,12 @@ bron(https://managementmodellensite.nl/vijf-cultuurdimensies-volgens-hofstede/#:
 
 ### 3. Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
 
-Ja op mijn werk werkte ik eerst met iemand uit nigeria
+Ja op mijn werk werkte ik eerst met iemand uit nigeria en die sprak niet heel goed Nederlands. Dus heb ik hem gedurende de tijd dat hij daar werkte geprobeerd om een beetje beter Nederlands te kunnen praten. Ook spraken we vaak over de cultuur verschillen/geschiedenis tussen Nigeria en Nederland en zo leerden we elkaar beter kennen.
+
+
+### 4. What is your culture? 
+
+Mijn cultuur is Nederlands. Dit houdt in dat we vaak gierig zijn (kijken, kijken en niet kopen) en veel stamppot en stroopwafels eten 
 
 
 
