@@ -77,7 +77,9 @@ Een statistische analyse van de resultaten leidde tot de volgende conclusie: in 
 bron(https://managementmodellensite.nl/vijf-cultuurdimensies-volgens-hofstede/#:~:text=Op%20grond%20van%20deze%20resultaten,'%20(van%20zwak%20naar%20sterk))
 
 
+### 3. Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
 
+Ja op mijn werk werkte ik eerst met iemand uit nigeria
 
 
 
