@@ -70,11 +70,15 @@ Nee wij houden op dit moment niet echt rekening met privacy maar wij hebben wel 
 Ons project is open source en dit maakt het dus beschikbaar voor iedereen die het wilt gebruiken.
 
 5. Data
+Data word actief bijgehouden en aangepast op basis van onze TOS
+Onze Data wordt efficiënt opgeslagen in onze database. Dit houdt in dat we bijvoorbeeld bij een postcode een maximaal aantal tekens hebben aangegeven zodat er niet onodig ruimte wordt verspilt.
+
 
 6. Sustainability
 Ja want wij gebruiken docker om daarop onze applicatie op te draaien en dit zorgt ervoor dat onze applicatie minder stroom verbruikt. Ook zorgt onze applicatie ervoor dat het plaatsen/opvragen van producten veel sneller en makkelijker gaat op onze applicatie en dus daardoor gebruikers minder tijd op hun laptop bezig zijn en dit dus er weer voor minder stroomverbruik zorgt.
 
 7. human values
+
 
 8. Bad Actors
 
