@@ -1,5 +1,5 @@
 
-# Etnics canvas vragen:
+# Etnics onderzoek:
 
 ### 1. What is ethics in software engineering?
 
@@ -43,8 +43,41 @@ Om erachter te komen of je bijvoorbeeld in je project groep dezelfde ethische be
 In mijn eigen project vraag ik ook steeds feedback aan mijn docent doormiddel van feedback gesprekken zodat ik regelmatig erachter kom of we nog ongeveer op zelfde lijn zitten.
 
 
+### TICT
 
-# Culture canvas vragen
+1. Intended solution
+Ons project heeft als doel om het makkelijker te kunnen maken voor Retailers om producten te kunnen opvragen en voor leveranciers producten te distruberen. 
+Dit willen we bereiken door het digitaal klantvriendelijk te maken doormiddel van verschillende bronnen te combineren in een lijst.
+
+2. Possible stakeholders
+
+-De klant voor wie het systeem is(World of Content)
+-Mogelijke investeerders.
+-Rivalen
+-Retailers
+-Leveranciers
+
+3. privacy
+Nee wij houden op dit moment niet echt rekening met privacy maar wij hebben wel wat ideeën om dit te verbeteren.
+
+-Een TOS opzetten die gebruikers moeten accepteren om op de applicatie te komen
+-Meer aandacht aan cyber security
+-Ons aan de officiele privacy wetten houden
+-Api beveilligen
+
+4. Fairness
+
+
+5. Data
+
+6. Sustainability
+
+7. human values
+
+8. Bad Actors
+
+
+# Culture onderzoek
 
 ### 1. What is culture? 
 
