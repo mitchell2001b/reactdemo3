@@ -45,6 +45,7 @@ In mijn eigen project vraag ik ook steeds feedback aan mijn docent doormiddel va
 
 ### TICT
 
+Op vrijdag 3 juni heb ik samen met mijn groep het TICT onderzoek gedaan om te kijken hoe ethisch onze applicatie nu uiteindelijk
 1. Intended solution
 Ons project heeft als doel om het makkelijker te kunnen maken voor Retailers om producten te kunnen opvragen en voor leveranciers producten te distruberen. 
 Dit willen we bereiken door het digitaal klantvriendelijk te maken doormiddel van verschillende bronnen te combineren in een lijst.
@@ -66,15 +67,22 @@ Nee wij houden op dit moment niet echt rekening met privacy maar wij hebben wel 
 -Api beveilligen
 
 4. Fairness
-
+Ons project is open source en dit maakt het dus beschikbaar voor iedereen die het wilt gebruiken.
 
 5. Data
 
 6. Sustainability
+Ja want wij gebruiken docker om daarop onze applicatie op te draaien en dit zorgt ervoor dat onze applicatie minder stroom verbruikt. Ook zorgt onze applicatie ervoor dat het plaatsen/opvragen van producten veel sneller en makkelijker gaat op onze applicatie en dus daardoor gebruikers minder tijd op hun laptop bezig zijn en dit dus er weer voor minder stroomverbruik zorgt.
 
 7. human values
 
 8. Bad Actors
+
+-Hackers kunnen persoonlijke data uit onze database stelen.
+-Er is de mogelijk om een monopoly te vormen.
+-verschillende bedrijven geen toegang geven tot ons platform.
+
+We kunnen deze risico's tegen gaan doormiddel onze software te beveilligen of doorzelf een monopoly te maken. Ook kunnen we guidelines voor admins opstellen.
 
 
 # Culture onderzoek
