@@ -47,7 +47,7 @@ Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel
 
 ![image](https://user-images.githubusercontent.com/79633852/170892608-12e325cc-52ee-4d10-9762-b879eb5f6450.png)
 
-
+Verder pas ik samen met mijn groep ons project ook regelmatig aan op basis van feedback van de stakeholders. Zo hadden wij op 31 mei een sprint oplevering en daarover gaven wij een presentatie en uiteindelijk kwam tijdens de presentatie naar boven dat onder andere blauwe tekst op een zwarte achtergrond niet echt een goeie keuze is volgens de stakeholders en deze feedback zullen we dan uiteindelijk meenemen in toekomstige sprints.
 
 ### 7. Business processes 
 
