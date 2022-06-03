@@ -34,7 +34,7 @@ Na elke sprint hield ik met mijn groep ook een reflecie ronden over wat we hebbe
 
  
 
-### 5. Cutural diffrences and ethnics
+### 5. Cultural differences and ethics
 
 
 ### 6. Requirements and design
