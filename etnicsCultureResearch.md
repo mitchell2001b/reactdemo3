@@ -1,5 +1,5 @@
 
-# Etnics onderzoek:
+# Ethics onderzoek:
 
 ### 1. What is ethics in software engineering?
 
