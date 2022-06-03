@@ -10,7 +10,7 @@ Ook heb ik aan de pagina's gewerkt van de fields in de frontend.
 ![image](https://user-images.githubusercontent.com/79633852/170567976-686f388c-4d7f-4bae-84aa-cc2075bc4a93.png)
 ![image](https://user-images.githubusercontent.com/79633852/170568212-c72dc9ca-28e7-4b80-bec7-db3a0b242231.png)
 
-Verder hebben we voor deze applicatie ook unit testen geschreven doormiddel van een in memory database (h2) en mock mvc
+Verder hebben we voor deze applicatie ook end to end testen geschreven doormiddel van een in memory database (h2) en mock mvc
 
 ![image](https://user-images.githubusercontent.com/79633852/170569514-f2c65de9-550f-4de3-ae3a-df9535a1a208.png)
 
@@ -22,15 +22,15 @@ Verder hebben we voor deze applicatie ook unit testen geschreven doormiddel van 
 
 Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van het scrum framework tijdens het realiseren van ons project. Dit houdt in dat wij elke dag om 8:30 standups houden om te kunnen zien wat iedereen van plan was om die dag te gaan toen en om te kijken wat iedereen de vorige dag had gedaan. Verder leggen wij ook alle werkzaamheden waar iedereen mee bezig is vast in een trello bord. Zo kunnen mensen die bijvoorbeeld de standup gemist hebben snel kijken op het trello bord om te zien waar iedereen mee bezig is. 
 
-
-
 Na elke sprint hield ik met mijn groep ook een reflecie ronden over wat we hebben gedaan afgelopen sprint en over of het goed ging of niet. Ook bespreken we dan waarom het goed ging of niet en welke vervolg stappen we nu gaan nemen. Ook nemen we door wat eventueel afgelopen sprint hebben geleerd en hoe we deze dingen in toekomstige sprint kunnen toepassen. Onze reflectie leggen we uiteindelijk vast in feedpulse.
+
+ Zelf vond ik met werken met het scrum methode efficiënt en handig, Het is efficiënt omdat, Ik kan namelijk zo makkelijk via standup meetings erachter komen wat iedereen gisteren mee bezig was, waar ze nu mee bezig zijn of wat ze gepland hebben om nog te doen. Als iemand de stand up heeft gemist kan hij of zij toch snel terug kijken op het trellobord wat iedereen aan het doen is. Zo hoef ik of iemand anders uit de groep de tijd de nemen om die persoon uit te leggen wat iedereen aan het doen is en dus zijn focus te verliezen op wat hij aan het doen was. Zo blijft veel kostbare tijd bespaard en dat zorgt er weer voor dat er meer tijd aan het project wordt besteed in plaats van dingen herhalend uit leggen.  Verder vond ik het ook fijn om niet per
  
  ![image](https://user-images.githubusercontent.com/79633852/170870641-02065c14-3950-4781-ab73-3163ee180b7e.png)
  ![image](https://user-images.githubusercontent.com/79633852/170870885-f1999222-7b0b-40ee-8def-d3d416e38735.png)
  ![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
  
- Zelf vond ik met werken met het scrum methode best wel fijn, omdat je op deze manier snel en makkelijk kon zien en bij kon houden waar iedereen mee bezig was. Het was ook heel fijn om op zo'n manier in een teamverband samen te kunnen werken.
+
 
  
 
