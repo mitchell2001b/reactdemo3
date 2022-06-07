@@ -21,6 +21,9 @@ Ik vind het belangrijk dat werkgevers zich altijd goed bezig houden met wat de o
 ##### -Product 
 Over het algemeen vindt ik dat je altijd zo goed mogelijk het product moet realiseren. Dit houdt in dat je alles moet doen om de kwaliteit van het product zo hoog mogelijk te houden: Denk hierbij aan unit testen, code reviews, code scans etc. Ik vindt wel dat er een paar uitzonderingen zijn als bijvoorbeeld de opdracht gever een heel irritant persoon is of hij geeft gewoon een veel te korte deadline. Als dit het geval is dan vindt ik het prima dat je de kantjes ervan afloopt. Je zou ook kunnen afspreken dat de klant extra moet gaan betalen voor longtime support en onderhoud van de applicatie.
 
+
+### ACM principes
+
 <i>Software-ingenieurs zullen zich ertoe verbinden van het analyseren, specificeren, ontwerpen, ontwikkelen, testen en onderhouden van software een nuttig en gerespecteerd beroep te maken. In overeenstemming met hun inzet voor de gezondheid, veiligheid en het welzijn van het publiek, zullen software-ingenieurs zich houden aan de volgende acht principes:
 
 1. PUBLIEK – Software-engineers handelen in overeenstemming met het algemeen belang.
