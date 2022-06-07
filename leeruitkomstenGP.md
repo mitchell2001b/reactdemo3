@@ -74,7 +74,7 @@ Door het beschrijven van een business process ben ik erachter gekomen dat deze p
 
 
 #### canvas vragen
-Ook heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoord:
+als laatste heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoord:
 
 1. What is a business process?
 Een bedrijfsproces is een activiteit of een set van meerdere activiteiten die er voor moeten zorgen dat een doel van het bedrijf bereikt wordt.
