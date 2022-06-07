@@ -59,6 +59,7 @@ Voor deze leeruitkomst heb ik een process in kaart gebracht van het bedrijf waar
 * bedrijf: het bedrijf in het algemeen is betrokken bij het afhandelen van een klacht meestal zijn dit 1 of meerdere medewerkers/klanten service personen.
 
 ![image](https://user-images.githubusercontent.com/79633852/172359533-5aa8caba-b7b3-4acc-8751-941148af03d0.png)
+![Swimlane Diagram Template](https://user-images.githubusercontent.com/79633852/172374066-ba629f42-2a26-45b3-b56a-99a15049ac99.jpg)
 
 
 bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
