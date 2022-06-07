@@ -62,6 +62,13 @@ Voor deze leeruitkomst heb ik een process in kaart gebracht van het bedrijf waar
 
 bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
 
+
+#### Hoe kan ik dit diagram van het business process bijdragen aan een toekomstige process?
+
+Door het beschrijven van dit diagram in een diagram of tekening kun je zien welke stappen je allemaal moet doorlopen om het gewenste resultaat te bereiken. 
+Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden.
+
+
 Ook heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoord:
 
 1. What is a business process?
