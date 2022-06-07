@@ -68,6 +68,10 @@ bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
 Door het beschrijven van dit diagram in een diagram of tekening kun je zien welke stappen je allemaal moet doorlopen om het gewenste resultaat te bereiken. 
 Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden. Je moet er wel rekening mee houden dat sommige bedrijven die hun procedures op hun website zetten niet altijd helemaal de waarheid vertellen. Dus soms kan het handig zijn aan de klant om na te vragen of dit ook echt de daadwerkelijke procedure is. 
 
+#### Relectie
+
+Door het beschrijven van een business process ben ik erachter gekomen dat deze processen toch best wel erg lang zijn en veel meer stappen hebben dan ik had verwacht. Ook heb ik geleerd hoe je een business process diagram en een Swimlane diagram kunt maken. Verder heb ik geleerd hoe een beschrijving van een business process kan bijdragen aan het process van het realiseren van een opdracht voor een stakeholder. Deze kennis ga ik in de toekomst proberen toe te passen in mijn komende stage periodes als dit nodig is en ook als ik later ga werken.
+
 
 #### canvas vragen
 Ook heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoord:
