@@ -82,50 +82,9 @@ Onze punten hoe we data in onze applicatie toepassen of nog kunnen toepassen:
 Dit punt vond ik ook belangrijk omdat, Het steeds belangrijker wordt voor applicaties/systemen om grote hoeveelheden data op te slaan. Eerst was het namelijk ook zo dat je rekening moest houden met opslag. Daarna werden computers/hardware steeds beter en hoefde je er in principe niet meer zoveel aandacht aan te besteden maar tegenwoordig worden de aantallen data die je misschien wel moet verwerken/opslaan steeds hoger en daarom is het weer belangrijk om te kijken hoe je zo efficient mogelijk je data in je database kan opslaan. Misschien later als Kwantumcomputers of een andere technologie standaard wordt en het dan weer niet meer zo belangrijk is om naar opslag te kijken zou mijn mening over dit punt weer kunnen veranderen. Maar voor nu vindt ik het belangrijk om hier nu naar te kijken en hoe ik het in mijn toekomstige projecten zou kunnen toepassen. Ook het transparant zijn tegen je gebruikers over welke data je opslaat vindt ik belangrijk, omdat als je dit goed doet vertrouwen opbouwt in je doelgroep. En als een doelgroep veel vertrouwen in jou bedrijf/merk/producten heeft maakt het de kans groter dat ze toekomstige producten aanschaffen.
 
 
-1. Intended solution
-Ons project heeft als doel om het makkelijker te kunnen maken voor Retailers om producten te kunnen opvragen en voor leveranciers producten te distruberen. 
-Dit willen we bereiken door het digitaal klantvriendelijk te maken doormiddel van verschillende bronnen te combineren in een lijst.
+### Reflectie Ethics
 
-2. Possible stakeholders
-
--De klant voor wie het systeem is(World of Content)
--Mogelijke investeerders.
--Rivalen
--Retailers
--Leveranciers
-
-3. privacy
-Nee wij houden op dit moment niet echt rekening met privacy maar wij hebben wel wat ideeën om dit te verbeteren.
-
--Een TOS opzetten die gebruikers moeten accepteren om op de applicatie te komen
--Meer aandacht aan cyber security
--Ons aan de officiele privacy wetten houden
--Api beveilligen
-
-4. Fairness
-Ons project is open source en dit maakt het dus beschikbaar voor iedereen die het wilt gebruiken.
-
-5. Data
-Data word actief bijgehouden en aangepast op basis van onze TOS
-Onze Data wordt efficiënt opgeslagen in onze database. Dit houdt in dat we bijvoorbeeld bij een postcode een maximaal aantal tekens hebben aangegeven zodat er niet onodig ruimte wordt verspilt.
-
-
-6. Sustainability
-Ja want wij gebruiken docker om daarop onze applicatie op te draaien en dit zorgt ervoor dat onze applicatie minder stroom verbruikt. Ook zorgt onze applicatie ervoor dat het plaatsen/opvragen van producten veel sneller en makkelijker gaat op onze applicatie en dus daardoor gebruikers minder tijd op hun laptop bezig zijn en dit dus er weer voor minder stroomverbruik zorgt.
-
-7. human values
-
--Wij waarderen werkuren.
--We zorgen dat gebruikers minder en makkelijker werken.
--We voldoen aan wetten die werknemers beschermen
-
-8. Bad Actors
-
--Hackers kunnen persoonlijke data uit onze database stelen.
--Er is de mogelijk om een monopoly te vormen.
--verschillende bedrijven geen toegang geven tot ons platform.
-
-We kunnen deze risico's tegen gaan doormiddel onze software te beveilligen of doorzelf een monopoly te maken. Ook kunnen we guidelines voor admins opstellen.
+Wat ik zelf vind van ethics op het software gebied verschilt nog wel eens. Zo vind ik het belangrijk dat je nadenkt over de mogelijke negatieve effecten die jou product gaat hebben op de mensheid en of je deze effecten kunt beperken. Als je bijvoorbeeld gevoelige data van gebruikers gaat gebruiken kun je dit bijvoorbeeld in een TOS zetten die de gebruikers moeten accepteren om gebruik te maken van de applicatie. Zo informeer je je gebruikers tenminste dat je onethisch bezig bent met data en zo kunnen ze zelf beslissen of ze dat accepteren of niet. Ook vind ik dat er uitzonderingen zijn, bijvoorbeeld als de positieve effecten een veel grotere impact hebben dan de negatieve effecten. Een voorbeeld is een Dynamiet en explosieven in het algemeen. Dynamiet had heel veel positieve effecten
 
 
 # Culture onderzoek
