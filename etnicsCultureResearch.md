@@ -84,7 +84,7 @@ Dit punt vond ik ook belangrijk omdat, Het steeds belangrijker wordt voor applic
 
 ### Reflectie Ethics
 
-Wat ik zelf vind van ethics op het software gebied verschilt nog wel eens. Zo vind ik het belangrijk dat je nadenkt over de mogelijke negatieve effecten die jou product gaat hebben op de mensheid en of je deze effecten kunt beperken. Als je bijvoorbeeld gevoelige data van gebruikers gaat gebruiken kun je dit bijvoorbeeld in een TOS zetten die de gebruikers moeten accepteren om gebruik te maken van de applicatie. Zo informeer je je gebruikers tenminste dat je onethisch bezig bent met data en zo kunnen ze zelf beslissen of ze dat accepteren of niet. Ook vind ik dat er uitzonderingen zijn, bijvoorbeeld als de positieve effecten een veel grotere impact hebben dan de negatieve effecten. Een voorbeeld is een Dynamiet en explosieven in het algemeen. Dynamiet had heel veel positieve effecten
+Wat ik zelf vind van ethics op het software gebied verschilt nog wel eens. Zo vind ik het belangrijk dat je nadenkt over de mogelijke negatieve effecten die jou product gaat hebben op de mensheid en of je deze effecten kunt beperken. Als je bijvoorbeeld gevoelige data van gebruikers gaat gebruiken kun je dit bijvoorbeeld in een TOS zetten die de gebruikers moeten accepteren om gebruik te maken van de applicatie. Zo informeer je je gebruikers tenminste dat je onethisch bezig bent met data en zo kunnen ze zelf beslissen of ze dat accepteren of niet. Ook vind ik dat er uitzonderingen zijn, bijvoorbeeld als de positieve effecten een veel grotere impact hebben dan de negatieve effecten. Een voorbeeld is een Dynamiet en explosieven in het algemeen. Dynamiet had heel veel positieve effecten op het maken van tunnels, mijnbouw en wegenbouw. Natuurlijk had dynamiet wat ethische risico's zo was dynamiet ook erg gebruikt in sommige oorlogen of conflicten. Zelf wil ik in toekomst tijdens het maken van mijn projecten kijken hoe ik eventuele negatieve effecten kan beperken. Als dit niet kan dan zou ik kunnen kijken of de positieve effecten groter zijn dan de negatieve. 
 
 
 # Culture onderzoek
@@ -95,39 +95,18 @@ Cultuur is alles wat de mens maakt en doet. Cultuur verwijst naar activiteiten v
 
 bron(https://nl.wikipedia.org/wiki/Cultuur)
 
-
-### 2. Which are well-known dimensions on cultural differences?
-
-Om op deze vraag antwoord te geven had ik gekeken naar de theorie van Hofstede.
-
-<i>Onderzoek
-
-In 1966 werd een groot wetenschappelijk onderzoekproject uitgevoerd. Dit onderzoek bestond uit het invullen van een uitgebreide enquête door 116.000 medewerkers van een groot multinationaal bedrijf, IBM, in 50 verschillende landen. Onder deze landen bevonden zich minder en meer ontwikkelde landen. De enquêtes waren opgesteld in de taal van de verschillende landen: in totaal 20 talen. Het belangrijkste verschil tussen de respondenten was de cultuur. Er was naar gestreefd een zo goed mogelijke doorsnede per land te krijgen van leeftijden, sekse en type functie.
-Een statistische analyse van de resultaten leidde tot de volgende conclusie: in alle landen komen gemeenschappelijke problemen voor maar in ieder land zoekt men oplossingen, die verschillen met betrekking tot de volgende punten:
-
-1. maatschappelijke ongelijkheid, waaronder de houding ten opzichte van gezag
-2. de verhouding tussen individu en groep
-3. de gewenste rolverdeling tussen mannen en vrouwen: de maatschappelijke gevolgen van het geboren worden als jongen of als meisje
-4. manieren van omgaan met onzekerheid, waaronder de wenselijkheid van het beheersen van agressie en van het uiten van emoties
-5. Op grond van deze resultaten konden de volgende culturele dimensies worden gedefinieerd:
-
-1. ‘Machtsafstand’ (van klein naar groot)
-2. ‘Collectivisme’ tegenover ‘Individualisme’
-3. ‘Femininiteit’ tegenover ‘Masculiniteit’
-4. ‘Onzekerheidsvermijding’ (van zwak naar sterk) </i>
-
-
-bron(https://managementmodellensite.nl/vijf-cultuurdimensies-volgens-hofstede/#:~:text=Op%20grond%20van%20deze%20resultaten,'%20(van%20zwak%20naar%20sterk))
-
-
-### 3. Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
+### 2. Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
 
 Ja op mijn werk werkte ik eerst met iemand uit nigeria en die sprak niet heel goed Nederlands. Dus heb ik hem gedurende de tijd dat hij daar werkte geprobeerd om een beetje beter Nederlands te kunnen praten. Ook spraken we vaak over de cultuur verschillen/geschiedenis tussen Nigeria en Nederland en zo leerden we elkaar beter kennen.
 
+### 3. What is your culture? 
 
-### 4. What is your culture? 
+Mijn cultuur is Nederlands. Dit houdt in dat we vaak gierig zijn (kijken, kijken en niet kopen) en veel stamppot en stroopwafels eten.
 
-Mijn cultuur is Nederlands. Dit houdt in dat we vaak gierig zijn (kijken, kijken en niet kopen) en veel stamppot en stroopwafels eten 
+### Mijn mening over cultuur in software development
+Zelf
+
+
 
 
 
