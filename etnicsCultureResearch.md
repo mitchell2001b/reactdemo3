@@ -54,7 +54,34 @@ In mijn eigen project vraag ik ook steeds feedback aan mijn docent doormiddel va
 
 ### TICT
 
-Op vrijdag 3 juni heb ik samen met mijn groep het TICT onderzoek gedaan om te kijken hoe ethisch onze applicatie nu uiteindelijk
+Op vrijdag 3 juni heb ik samen met mijn groep het TICT onderzoek gedaan om te kijken hoe ethisch onze applicatie nu uiteindelijk is en wat we nog kunnen verbeteren
+
+![image](https://user-images.githubusercontent.com/79633852/172404401-7970ecf6-54ae-421d-b708-134936d3ac91.png)
+
+Van alle punten die ik samen met mijn groep besprak vond ik deze het belangrijkste:
+
+#### Privacy
+Met privacy hebben wij tijdens het realiseren van onze proftaak hebben wij eigenlijk niet zoveel rekening gehouden. Maar zelf vind ik het wel heel belangrijk en daarom hadden wij dus samen overlegd hoe wij onze applicatie zouden kunnen aanpassen:
+
+-Een TOS opzetten die gebruikers moeten accepteren om op de applicatie te komen
+-Meer aandacht aan cyber security
+-Ons aan de officiele privacy wetten houden
+-Api beveilligen
+
+Dit punt vond ik meest belangrijke, omdat in de toekomst als ik later een baan heb ik echt serieus rekening moet gaan houden met de privacy regels tijdens het maken van mijn opdrachten. Daarom vond ik het handig om daar nu al over na te denken hoe je privacy problemen in een applicatie kan aanpakken.
+
+
+#### Data
+
+Voor dit punt hadden we gekeken naar hoe we data gebruiken in onze applicatie en of we deze ehtisch en transparant gebruiken.
+
+Onze punten hoe we data in onze applicatie toepassen of nog kunnen toepassen: 
+-Data word actief bijgehouden en aangepast op basis van onze toekomstige TOS.
+-Onze Data wordt efficiënt opgeslagen in onze database. Dit houdt in dat we bijvoorbeeld bij een postcode een maximaal aantal tekens hebben aangegeven zodat er niet onodig ruimte wordt verspilt.
+
+Dit punt vond ik ook belangrijk omdat, Het steeds belangrijker wordt voor applicaties/systemen om grote hoeveelheden data op te slaan. Eerst was het namelijk ook zo dat je rekening moest houden met opslag. Daarna werden computers/hardware steeds beter en hoefde je er in principe niet meer zoveel aandacht aan te besteden maar tegenwoordig worden de aantallen data die je misschien wel moet verwerken/opslaan steeds hoger en daarom is het weer belangrijk om te kijken hoe je zo efficient mogelijk je data in je database kan opslaan. Misschien later als Kwantumcomputers of een andere technologie standaard wordt en het dan weer niet meer zo belangrijk is om naar opslag te kijken zou mijn mening over dit punt weer kunnen veranderen. Maar voor nu vindt ik het belangrijk om hier nu naar te kijken en hoe ik het in mijn toekomstige projecten zou kunnen toepassen.
+
+
 1. Intended solution
 Ons project heeft als doel om het makkelijker te kunnen maken voor Retailers om producten te kunnen opvragen en voor leveranciers producten te distruberen. 
 Dit willen we bereiken door het digitaal klantvriendelijk te maken doormiddel van verschillende bronnen te combineren in een lijst.
@@ -88,6 +115,9 @@ Ja want wij gebruiken docker om daarop onze applicatie op te draaien en dit zorg
 
 7. human values
 
+-Wij waarderen werkuren.
+-We zorgen dat gebruikers minder en makkelijker werken.
+-We voldoen aan wetten die werknemers beschermen
 
 8. Bad Actors
 
