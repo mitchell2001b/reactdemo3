@@ -69,6 +69,7 @@ Door het beschrijven van dit diagram in een diagram of tekening kun je zien welk
 Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden.
 
 
+#### canvas vragen
 Ook heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoord:
 
 1. What is a business process?
