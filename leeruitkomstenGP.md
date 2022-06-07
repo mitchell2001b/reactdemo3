@@ -66,7 +66,7 @@ bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
 #### Hoe kan een business process beschrijven bijdragen aan het maken van een applicatie?
 
 Door het beschrijven van dit diagram in een diagram of tekening kun je zien welke stappen je allemaal moet doorlopen om het gewenste resultaat te bereiken. 
-Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden. Je moet er wel rekening mee houden dat sommige bedrijven die hun procedures op hun website zetten niet altijd helemaal waar zijn dus soms kan het handig zijn aan de klant om na te vragen of dit ook echt de daadwerkelijke procedure is.
+Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden. Je moet er wel rekening mee houden dat sommige bedrijven die hun procedures op hun website zetten niet altijd helemaal de waarheid vertellen. Dus soms kan het handig zijn aan de klant om na te vragen of dit ook echt de daadwerkelijke procedure is.
 
 
 #### canvas vragen
