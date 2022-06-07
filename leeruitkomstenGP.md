@@ -58,7 +58,8 @@ Voor deze leeruitkomst heb ik een process in kaart gebracht van het bedrijf waar
 * Klant: De persoon die de klacht heeft ingediend bij het bedrijf.
 * bedrijf: het bedrijf in het algemeen is betrokken bij het afhandelen van een klacht meestal zijn dit 1 of meerdere medewerkers/klanten service personen.
 
-![image](https://user-images.githubusercontent.com/79633852/171279399-55c1f0ad-ea77-4bcc-991f-7833820dfd9d.png)
+![image](https://user-images.githubusercontent.com/79633852/172359533-5aa8caba-b7b3-4acc-8751-941148af03d0.png)
+
 
 bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
 
