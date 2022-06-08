@@ -75,7 +75,7 @@ Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements 
 
 #### Relectie
 
-Door het beschrijven van een business process ben ik erachter gekomen dat deze processen toch best wel erg lang zijn en veel meer stappen hebben dan ik had verwacht. Ook heb ik geleerd hoe je een business process diagram en een Swimlane diagram kunt maken. Verder heb ik geleerd hoe een beschrijving van een business process kan bijdragen aan het process van het realiseren van een opdracht voor een stakeholder. Deze kennis ga ik in de toekomst proberen toe te passen in mijn komende stage periodes als dit nodig is en ook als ik later ga werken. Bijvoorbeeld ik zou in een interview kunnen vragen aan de opdracht gever hoe bepaalde processen in het bedrijf eruit zien zdoat ik een beter beeld krijg over welke eisen er precies zijn.
+Door het beschrijven van een business process ben ik erachter gekomen dat deze processen toch best wel erg lang zijn en veel meer stappen hebben dan ik had verwacht. Ook heb ik geleerd hoe je een business process diagram en een Swimlane diagram kunt maken. Verder heb ik geleerd hoe een beschrijving van een business process kan bijdragen aan het process van het realiseren van een opdracht voor een stakeholder. Deze kennis ga ik in de toekomst proberen toe te passen in mijn komende stage periodes als dit nodig is en ook als ik later ga werken. Bijvoorbeeld ik zou in een interview kunnen vragen aan de opdracht gever hoe bepaalde processen in het bedrijf eruit zien zodat ik een beter beeld krijg over welke eisen er precies zijn. Ook kan ik een diagram van een process maken en dan aan de klant laten zien of ik het juist hebt begrepen of niet.
 
 
 
