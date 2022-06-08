@@ -101,10 +101,16 @@ Ja op mijn werk werkte ik eerst met iemand uit nigeria en die sprak niet heel go
 
 ### 3. What is your culture? 
 
-Mijn cultuur is Nederlands. Dit houdt in dat we vaak gierig zijn (kijken, kijken en niet kopen) en veel stamppot en stroopwafels eten.
+Mijn cultuur is Nederlands. Dit houdt in dat we vaak gierig zijn (kijken, kijken en niet kopen) en veel stamppot en stroopwafels eten. Ook bouwen we veel molens om polders droog te leggen.
 
 ### Mijn mening over cultuur in software development
-Zelf
+
+Zelf vindt ik dat cultuur belangrijk is in software development, omdat als je een project gaat maken je goed moet weten voor wie je het project of de applicatie maken. Bijvoorbeeld als je een site voor defensie gaat maken dat je dan geen kleuren zoals roze of paars gaat gebruiken want dit past niet echt defensie. Dus als je een specifiek project krijgt moet je je eerst verdiepen in de cultuur van de doelgroep of doelgroepen waarvoor het project bedoelt is.
+
+Ook vind ik het belangrijk dat je op cultuur let als je samen met andere mensen van een andere cultuur werkt in je project groep. Zodat ik kan merken dat iemand anders misschien dingen op hele andere manier aanpakt dan mij. Door daar rekening mee te houden kan ik de goeie sfeer in groep behouden wat dan er weer voor zorgt dat we meer gemotiveerd zijn en dus beter het project kunnen realiseren. 
+
+In de toekomst ga ik dus proberen met deze 2 punten rekening te houden.
+
 
 
 
