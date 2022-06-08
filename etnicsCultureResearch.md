@@ -89,6 +89,8 @@ Wat ik zelf vind van ethics op het software gebied verschilt nog wel eens. Zo vi
 
 # Culture onderzoek
 
+Om erachter te komen wat cultuur nou eigenlijk is heb ik een paar canvas vragen onderzocht en beantwoordt. Verder heb ik nog beschreven wat ik zelf belangrijk vindt van cultuur op het software gebied.
+
 ### 1. What is culture? 
 
 Cultuur is alles wat de mens maakt en doet. Cultuur verwijst naar activiteiten van mensen en de symbolen die deze activiteiten een betekenis geven. Een voorbeeld van cultuur is bijvoorbeeld het maken van bepaalde gerechten(eten) of het bouwen van tempels/kerken etc. Cultuur is dus eigenlijk het tegenovergestelde van het begrip 'Natuur'.
