@@ -19,7 +19,9 @@ Een software engineer krijgt als advies om zicht aan bepaalde principes te houde
 Ik vind het belangrijk dat werkgevers zich altijd goed bezig houden met wat de opdrachtgever precies wil en dat je ook goed weet waarvoor het systeem dat jij gaat maken gebruikt gaat worden. Zo kun je controleren of de impact op de doelgroep positief is of niet. Als het niet positief is zou je kunnen overleggen met de opdrachtgever over hoe hij het systeem zou kunnen aanpassen.
 
 ##### -Product 
-Over het algemeen vindt ik dat je altijd zo goed mogelijk het product moet realiseren. Dit houdt in dat je alles moet doen om de kwaliteit van het product zo hoog mogelijk te houden: Denk hierbij aan unit testen, code reviews, code scans etc ook kun je advies geven als je merkt bijvoorbeeld dat je een probleem op lange termijn ziet aankomen in een toekomstige wens van een stakeholder. Je kan dan advies geven aan de stakeholder over hoe hij zijn nieuwe wens zou kunnen aanpassen om dit probleem op lange termijn te kunnen voorkomen.
+Over het algemeen vindt ik dat je altijd zo goed mogelijk het product moet realiseren. Dit houdt in dat je alles moet doen om de kwaliteit van het product zo hoog mogelijk te houden: Denk hierbij aan unit testen, code reviews, code scans etc ook kun je advies geven als je merkt bijvoorbeeld dat je een probleem op lange termijn ziet aankomen in een toekomstige wens van een stakeholder. Je kan dan advies geven aan de stakeholder over hoe hij zijn nieuwe wens zou kunnen aanpassen om dit probleem op lange termijn te kunnen voorkomen. 
+
+Wel vindt ik dat er uitzonderingen zijn voor dit advies. Bijvoorbeeld als de stakeholder de hele tijd onhaalbare deadlines geeft of voortdurend ongewenst gedrag vertoont. Ik zou dan eerst er een paar keer met de stakeholder erover praten over hoe we dat probleem samen zouden kunnen oplossen. Maar als dit ook niet helpt dan zou ik zelf dit advies niet meer geven als dit van toepassing zou zijn. Je kunt dan gewoon de applicatie maken hoe de stakeholder dat wil(de kwaliteit blijft hetzelfde) en eventuele problemen die zich op lange termijn kunnen voordoen moet de stakeholder zelf maar oplossen.
 
 
 ### ACM principes
