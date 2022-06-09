@@ -19,7 +19,7 @@ Een software engineer krijgt als advies om zicht aan bepaalde principes te houde
 Ik vind het belangrijk dat werkgevers zich altijd goed bezig houden met wat de opdrachtgever precies wil en dat je ook goed weet waarvoor het systeem dat jij gaat maken gebruikt gaat worden. Zo kun je controleren of de impact op de doelgroep positief is of niet. Als het niet positief is zou je kunnen overleggen met de opdrachtgever over hoe hij het systeem zou kunnen aanpassen.
 
 ##### -Product 
-Over het algemeen vindt ik dat je altijd zo goed mogelijk het product moet realiseren. Dit houdt in dat je alles moet doen om de kwaliteit van het product zo hoog mogelijk te houden: Denk hierbij aan unit testen, code reviews, code scans etc. Ik vindt wel dat er een paar uitzonderingen zijn als bijvoorbeeld de opdracht gever een heel irritant persoon is of hij geeft gewoon een veel te korte deadline. Als dit het geval is dan vindt ik het prima dat je de kantjes ervan afloopt. Je zou ook kunnen afspreken dat de klant extra moet gaan betalen voor longtime support en onderhoud van de applicatie.
+Over het algemeen vindt ik dat je altijd zo goed mogelijk het product moet realiseren. Dit houdt in dat je alles moet doen om de kwaliteit van het product zo hoog mogelijk te houden: Denk hierbij aan unit testen, code reviews, code scans etc ook kun je advies geven als je merkt bijvoorbeeld dat je een probleem op lange termijn ziet aankomen in een toekomstige wens van een stakeholder. Je kan dan advies geven aan de stakeholder over hoe hij zijn nieuwe wens zou kunnen aanpassen om dit probleem op lange termijn te kunnen voorkomen.
 
 
 ### ACM principes
