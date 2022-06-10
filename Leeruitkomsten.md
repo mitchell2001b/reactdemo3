@@ -20,7 +20,7 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 
 Voor deze leeruitkomst heb ik gebruik gemaakt van Sonarcloud en SonarLint en ook schrijf ik unit tests voor de kernfuncties van de applicatie.  Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc). 
 
-Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren zo heb ik bijvoorbeeld bij sommige van mijn controller en services methoden de objecten die ik mee geef veranderd naar dto's in plaats van de echte eniteiten
+Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren zo heb ik bijvoorbeeld bij sommige van mijn controller en services methoden de objecten die ik mee geef veranderd naar dto's in plaats van de echte entiteiten
 
 ![image](https://user-images.githubusercontent.com/79633852/169029114-bed85048-505c-4621-9c05-37df8899118b.png)
 ![image](https://user-images.githubusercontent.com/79633852/169029236-3ec2a0db-8fd3-481b-9dfe-54d1c729255b.png)
