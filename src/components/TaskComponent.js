@@ -54,9 +54,11 @@ class TaskComponent extends Component
                      
             <div className="container-md">
                 <br></br>
+                
                 <h1 id="TaskListHeader">Tasks</h1>
+                { this.isAdmin ? <a href={"/taskform"} class="link-primary">Create New Task</a> : <h1></h1> }
                 {    
-                   
+
                         <table className="table table-dark">               
                         <tbody>
                             <tr>
@@ -87,9 +89,7 @@ class TaskComponent extends Component
                                           ))           
                                   }         
                               </tbody>
-                           </table>
-                    
-                    
+                           </table>                                  
                     }      
             </div>
                  
