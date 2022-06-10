@@ -18,7 +18,7 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 
 ## Leeruitkomst 2: Software quality 
 
-Voor deze leeruitkomst heb ik gebruik gemaakt of ga ik gebruik maken van Sonarcloud en SonarLint en ook schrijf ik unit tests voor de kernfuncties van de applicatie.  Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc). 
+Voor deze leeruitkomst heb ik gebruik gemaakt van Sonarcloud en SonarLint en ook schrijf ik unit tests voor de kernfuncties van de applicatie.  Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc). 
 
 Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren zo heb ik bijvoorbeeld bij sommige van mijn controller en services methoden de objecten die ik mee geef veranderd naar dto's in plaats van de echte eniteiten
 
@@ -30,9 +30,11 @@ Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren
 <img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
 
 ## Leeruitkomst 4: CI/CD
-Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd en de h2 database gebruikt niet mijn schijf om dingen op te slaan. De reden waarom ik mijn testen automatisch heb laten draaien is, omdat ik zo kan zien of de oude code nog goed werkt nadat ik een grote feature bijvoorbeeld heb toegevoegd.
+Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd en de h2 database gebruikt niet mijn schijf om dingen op te slaan. De reden waarom ik mijn testen automatisch heb laten draaien is, omdat ik zo kan zien of de oude code nog goed werkt nadat ik een grote feature bijvoorbeeld heb toegevoegd. Ook heb ik ervoor zorgt dat mijn sonar cloud automatisch een code scan doet nadat ik een push doe naar github zodat ik kan kijken of er misschien code smells of bugs in de nieuwe code zitten.
 
 ![image](https://user-images.githubusercontent.com/79633852/171254382-e9c741af-78ce-4aac-a0aa-ce8f46eeb095.png)
+
+![image](https://user-images.githubusercontent.com/79633852/173098455-787d2826-8c6d-4259-9791-bba0b0bf105b.png)
 
 
 <img width="406" alt="github" src="https://user-images.githubusercontent.com/79633852/164170917-14271118-9214-4c5c-affe-d73bfcecd5f3.PNG">
