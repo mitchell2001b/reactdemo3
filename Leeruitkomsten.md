@@ -27,10 +27,20 @@ De sonarcloud code scans runnen ook automatisch elke keer als ik code commit mee
 ![image](https://user-images.githubusercontent.com/79633852/169029114-bed85048-505c-4621-9c05-37df8899118b.png)
 ![image](https://user-images.githubusercontent.com/79633852/169029236-3ec2a0db-8fd3-481b-9dfe-54d1c729255b.png)
 
-
-
-
 <img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
+
+De testen die ik voor mijn applicatie heb gemaakt zijn:
+
+-Repository tests in de backend voor mijn custom queries. Deze testen zorgen ervoor dat ik kan zien of custom queries die ik uitvoer doen wat ze moeten doen.
+
+![image](https://user-images.githubusercontent.com/79633852/173200547-361bf446-65c8-4298-9940-1ea5f0f895b0.png)
+
+-Controller endpoint tests in de backend voor mijn api endpoints. Deze tests zorgen ervoor of ik kan zien of mijn api calls ook daadwerkelijk aan komen bij mijn api en of deze vervolgens ook goed worden uitgevoerd. Voor deze tests gebruik ik mock mvc om de service classes te mocken zodat ik niet daadwerkelijk de echte service class hoef te gebruiken.
+
+![image](https://user-images.githubusercontent.com/79633852/173200838-4518b95f-6b79-44bb-a784-251b3476e881.png)
+
+
+
 
 ## Leeruitkomst 4: CI/CD
 Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd en de h2 database gebruikt niet mijn schijf om dingen op te slaan. De reden waarom ik mijn testen automatisch heb laten draaien is, omdat ik zo kan zien of de oude code nog goed werkt nadat ik een grote feature bijvoorbeeld heb toegevoegd. Ook heb ik ervoor zorgt dat mijn sonar cloud automatisch een code scan doet nadat ik een push doe naar github zodat ik kan kijken of er misschien code smells of bugs in de nieuwe code zitten.
