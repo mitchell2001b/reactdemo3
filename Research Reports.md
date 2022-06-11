@@ -60,7 +60,7 @@ In mijn echte project werk ik met een ORM dit beschermt al op zich zelf heel goe
 
 ### Conclusie
 
-Uiteindelijk na al dit onderzoek en uitproberen heb ik gekozen voor een ORM in mijn individuele project (ook voor ons groeps project). Omdat ik het vorige semester zonder een ORM had gewerkt. Ook ben ik tot de conclusie gekomen dat een combinatie van een ORM en prepared statements en input validation het beste voor mijn project werkt. En deze heb ik dan ook uiteindelijk gebruikt.
+Uiteindelijk na al dit onderzoek en uitproberen heb ik gekozen voor een ORM in mijn individuele project (ook voor ons groeps project). Omdat ik het vorige semester zonder een ORM had gewerkt. Ook ben ik tot de conclusie gekomen dat een combinatie van een ORM en prepared statements en input validation het beste voor mijn project werkt, omdat de ORM al bescherming biedt voor de standaard queries zoals insert, delete, select en update. De prepared statements zorgen er dan weer voor dat mijn eigen custom queries die niet door de orm gedekt worden ook beschermd zijn en als laatste zorgt de input validation er nog voor dat vreemde tekens minder snel in de queries komen het is eigenlijk een extra laag bescherming. Door deze 3 dingen te combineren heb ik dus alle zwakheden van mijn queries kunnen beschermen.
 
 
 
