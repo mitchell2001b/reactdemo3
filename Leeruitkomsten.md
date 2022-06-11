@@ -39,6 +39,9 @@ De testen die ik voor mijn applicatie heb gemaakt zijn:
 
 ![image](https://user-images.githubusercontent.com/79633852/173200838-4518b95f-6b79-44bb-a784-251b3476e881.png)
 
+-Api endpoint tests in de frontend om te kijken of ik goed mijn backend kan bereiken via de frontend. 
+
+![image](https://user-images.githubusercontent.com/79633852/173204921-3cc7135d-d00d-4d95-8e37-8a015638baec.png)
 
 
 
