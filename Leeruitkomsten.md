@@ -22,6 +22,8 @@ Voor deze leeruitkomst heb ik gebruik gemaakt van Sonarcloud en SonarLint en ook
 
 Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren zo heb ik bijvoorbeeld bij sommige van mijn controller en services methoden de objecten die ik mee geef veranderd naar dto's in plaats van de echte entiteiten.
 
+De sonarcloud code scans runnen ook automatisch na elke keer als ik code commit meer over dit leg ik uit onder het kopje CI/CD.
+
 ![image](https://user-images.githubusercontent.com/79633852/169029114-bed85048-505c-4621-9c05-37df8899118b.png)
 ![image](https://user-images.githubusercontent.com/79633852/169029236-3ec2a0db-8fd3-481b-9dfe-54d1c729255b.png)
 
