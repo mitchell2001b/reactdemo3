@@ -25,7 +25,7 @@ Wel vindt ik dat er uitzonderingen zijn voor dit advies. Bijvoorbeeld als de sta
 
 ### ACM principes
 
-<i&gt;Software-ingenieurs zullen zich ertoe verbinden van het analyseren, specificeren, ontwerpen, ontwikkelen, testen en onderhouden van software een nuttig en gerespecteerd beroep te maken. In overeenstemming met hun inzet voor de gezondheid, veiligheid en het welzijn van het publiek, zullen software-ingenieurs zich houden aan de volgende acht principes:
+<i>Software-ingenieurs zullen zich ertoe verbinden van het analyseren, specificeren, ontwerpen, ontwikkelen, testen en onderhouden van software een nuttig en gerespecteerd beroep te maken. In overeenstemming met hun inzet voor de gezondheid, veiligheid en het welzijn van het publiek, zullen software-ingenieurs zich houden aan de volgende acht principes:
 
 1. PUBLIEK – Software-engineers handelen in overeenstemming met het algemeen belang.
 
@@ -41,7 +41,7 @@ Wel vindt ik dat er uitzonderingen zijn voor dit advies. Bijvoorbeeld als de sta
 
 7. COLLEGA'S – Software-engineers zullen hun collega's eerlijk en ondersteunend zijn.
 
-8. ZELF – Software-ingenieurs zullen deelnemen aan levenslang leren met betrekking tot de uitoefening van hun beroep en zullen een ethische benadering van de uitoefening van het beroep bevorderen.i&gt;
+8. ZELF – Software-ingenieurs zullen deelnemen aan levenslang leren met betrekking tot de uitoefening van hun beroep en zullen een ethische benadering van de uitoefening van het beroep bevorderen</i>
 
 bron(https://ethics.acm.org/code-of-ethics/software-engineering-code/)
 
