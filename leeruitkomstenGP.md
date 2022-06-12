@@ -62,7 +62,7 @@ Verder pas ik samen met mijn groep ons project ook regelmatig aan op basis van f
 
 ### 7. Business processes 
 
-Om erachter te kunnen komen hoe een business process in elkaar zit en hoe deze kunnen bijdragen aan software development heb ik een process in kaart gebracht van het bedrijf waar ik momenteel een bijbaan heb (Taxi vervoer Van Driel) Het Proces wat ik heb gekozen om in kaart te brengen is het afhandelen van een klacht, omdat ik normaal altijd dacht dat dit heel simpel en kort was maar ik kwam er al gauw achter dat er best een groot process achter zit (bij dit bedrijf in elk geval). De rollen die bij dit process betrokken zijn zijn:
+Om erachter te kunnen komen hoe een business process in elkaar zit en hoe deze kunnen bijdragen aan software development heb ik een proces in kaart gebracht van het bedrijf waar ik momenteel een bijbaan heb (Taxi vervoer Van Driel) Het Proces wat ik heb gekozen om in kaart te brengen is het afhandelen van een klacht, omdat ik normaal altijd dacht dat dit heel simpel en kort was maar ik kwam er al gauw achter dat er best een groot proces achter zit (bij dit bedrijf in elk geval). De rollen die bij dit proces betrokken zijn zijn:
 
 * Klant: De persoon die de klacht heeft ingediend bij het bedrijf.
 * bedrijf: het bedrijf in het algemeen is betrokken bij het afhandelen van een klacht meestal zijn dit 1 of meerdere medewerkers/klanten service personen.
@@ -70,18 +70,16 @@ Om erachter te kunnen komen hoe een business process in elkaar zit en hoe deze k
 ![image](https://user-images.githubusercontent.com/79633852/172359533-5aa8caba-b7b3-4acc-8751-941148af03d0.png)
 ![Swimlane Diagram Template](https://user-images.githubusercontent.com/79633852/172374066-ba629f42-2a26-45b3-b56a-99a15049ac99.jpg)
 
-
 bron: https://vandrielgroep.nl/groepsvervoer/klachtenprocedure/
-
 
 #### Hoe kan een beschrijving van een business process bijdragen aan het realiseren van een applicatie?
 
-Door het beschrijven van dit diagram in een diagram of tekening kun je zien welke stappen je allemaal moet doorlopen om het gewenste resultaat te bereiken. 
-Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden. Je moet er wel rekening mee houden dat sommige bedrijven die hun procedures op hun website zetten niet altijd helemaal de waarheid vertellen. Dus soms kan het handig zijn aan de klant om na te vragen of dit ook echt de daadwerkelijke procedure is en vragen of er misschien nog stappen missen die er nog bij kunnen. Door het na te vragen aan de klant heb je extra controle of je ook alle stappen juist hebt beschreven en kan je erachter komen of je nog dingen mist.
+Door het beschrijven van dit diagram in een diagram of tekening kun je zien welke stappen je allemaal moet doorlopen om het gewenste resultaat te bereiken.
+Dit kan handig zijn bijvoorbeeld bij het opzetten van user stories/requirements voor de applicatie. Je kunt dan bijvoorbeeld bepaalde taken omzetten in user stories zo kan het sturen van een reactie binnen 10 werkdagen bijvoorbeeld in een user story veranderd worden. Je moet er wel rekening mee houden dat sommige bedrijven die hun procedures op hun website zetten niet altijd helemaal de waarheid vertellen. Dus soms kan het handig zijn aan de klant om na te vragen of dit ook echt de daadwerkelijke procedure is en vragen of er misschien nog stappen missen die er nog bij kunnen. Door het na te vragen aan de klant heb je extra controle of je ook alle stappen juist hebt beschreven en kun je erachter komen of je nog dingen mist.
 
-#### Relectie
+#### Reflectie
 
-Door het beschrijven van een business process ben ik erachter gekomen dat deze processen toch best wel erg lang zijn en veel meer stappen hebben dan ik had verwacht. Ook heb ik geleerd hoe je een business process diagram en een Swimlane diagram kunt maken. Verder heb ik geleerd hoe een beschrijving van een business process kan bijdragen aan het process van het realiseren van een opdracht voor een stakeholder. Deze kennis ga ik in de toekomst proberen toe te passen in mijn komende stage periodes als dit nodig is en ook als ik later ga werken. Bijvoorbeeld ik zou in een interview kunnen vragen aan de opdracht gever hoe bepaalde processen in het bedrijf eruit zien zodat ik een beter beeld krijg over welke eisen er precies zijn. Ook kan ik een diagram van een process maken en dan aan de klant laten zien of ik het juist hebt begrepen of niet.
+Door het beschrijven van een business process ben ik erachter gekomen dat deze processen toch best wel erg lang zijn en veel meer stappen hebben dan ik had verwacht. Ook heb ik geleerd hoe je een business process diagram en een Swimlane diagram kunt maken. Verder heb ik geleerd hoe een beschrijving van een business process kan bijdragen aan het proces van het realiseren van een opdracht voor een stakeholder. Deze kennis ga ik in de toekomst proberen toe te passen in mijn komende stage periodes als dit nodig is en ook als ik later ga werken. Bijvoorbeeld ik zou in een interview kunnen vragen aan de opdracht gever hoe bepaalde processen in het bedrijf eruit zien zodat ik een beter beeld krijg over welke eisen er precies zijn. Ook kan ik een diagram van een process maken en dan aan de klant laten zien of ik het juist hebt begrepen of niet.
 
 
 
