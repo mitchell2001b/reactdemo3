@@ -47,6 +47,7 @@ Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van
 
 ### 5. Cultural differences and ethics
 
+- [ethics and culture research](https://github.com/mitchell2001b/reactdemo3/blob/master/etnicsCultureResearch.md)
 
 ### 6. Requirements and design
 
@@ -97,5 +98,5 @@ ALs je een software applicatie gaat maken zul je misschien als doel bereiken om 
 bron (https://itchronicles.com/business-process-management/business-process-management-in-software-companies/#:~:text=Business%20Process%20Management%20in%20software%20companies%20is%20more%20inclined%20towards,%2C%20testing%2C%20and%20deploying%20applications.)
 
 
-### 8. Professional 
+
 
