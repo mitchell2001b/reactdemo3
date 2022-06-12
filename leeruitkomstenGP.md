@@ -50,15 +50,15 @@ Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van
 
 ### 6. Requirements and design
 
-Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel gediscussieerd en uiteindelijk user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden wij ook een interview gedaan met de klant waarbij wij een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
- 
+Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel gediscussieerd en uiteindelijk user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden we ook een interview gedaan met de klant waarbij we een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
+
 ![image](https://user-images.githubusercontent.com/79633852/170892632-bc196d4b-07c9-4193-9934-a712dd414689.png)
 
 ![image](https://user-images.githubusercontent.com/79633852/170892691-ed2f80a9-fa22-4e95-867b-6ddd982028ed.png)
 
 ![image](https://user-images.githubusercontent.com/79633852/170892608-12e325cc-52ee-4d10-9762-b879eb5f6450.png)
 
-Verder pas ik samen met mijn groep ons project ook regelmatig aan op basis van feedback van de stakeholders. Zo hadden wij op 31 mei een sprint oplevering en daarover gaven wij een presentatie en uiteindelijk kwam tijdens de presentatie naar boven dat onder andere blauwe tekst op een zwarte achtergrond niet echt een goeie keuze is volgens de stakeholders en deze feedback zullen we dan uiteindelijk meenemen in toekomstige sprints.
+Verder pas ik samen met mijn groep ons project ook regelmatig aan op basis van feedback van de stakeholders. Zo hadden we op 31 mei een sprint oplevering en daarover gaven we een presentatie en uiteindelijk kwam tijdens de presentatie naar boven dat onder andere blauwe tekst op een zwarte achtergrond niet echt een goeie keuze is volgens de stakeholders en deze feedback zullen we dan uiteindelijk meenemen in toekomstige sprints.
 
 ### 7. Business processes 
 
@@ -89,11 +89,10 @@ als laatste heb ik een paar vragen uit canvas onderzocht en voor mezelf beantwoo
 
 1. What is a business process?
 Een bedrijfsproces is een activiteit of een set van meerdere activiteiten die er voor moeten zorgen dat een doel van het bedrijf bereikt wordt.
-Bijvoorbeeld: het goed afhandelen van een klacht is een bedrijfsprocess.
+Bijvoorbeeld: het goed afhandelen van een klacht is een bedrijfsproces.
 
-
-2. How a business proces relates to software applications? 
-ALs je een software applicatie gaat maken zul je misschien als doel bereiken om een bepaald process of taak te automatiseren. Dit process kan een business process zijn bijvoorbeeld als je een systeem wilt maken dat automatisch orders wilt plaatsen dan zul je moeten weten hoe het bedrijfs process eruit ziet van het plaatsen van een order en deze vervolgens uitschrijven in code en funcionaliteit. Het maken van een applicatie kan opzich zelf ook een business process zijn je moet bijvoorbeeld een hele reeks aan activiteiten voldoen om de applicatie te realiseren.
+2. How a business proces relates to software applications?
+ALs je een software applicatie gaat maken zul je misschien als doel bereiken om een bepaald proces of taak te automatiseren. Dit proces kan een business process zijn bijvoorbeeld als je een systeem wilt maken dat automatisch orders wilt plaatsen dan zul je moeten weten hoe het bedrijfsproces eruit ziet van het plaatsen van een order en deze vervolgens uitschrijven in code en functionaliteit. Het maken van een applicatie kan op zich zelf ook een business process zijn je moet bijvoorbeeld een hele reeks aan activiteiten voldoen om de applicatie te realiseren.
 
 bron (https://itchronicles.com/business-process-management/business-process-management-in-software-companies/#:~:text=Business%20Process%20Management%20in%20software%20companies%20is%20more%20inclined%20towards,%2C%20testing%2C%20and%20deploying%20applications.)
 
