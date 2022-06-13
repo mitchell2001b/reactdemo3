@@ -32,6 +32,8 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
 
 ![image](https://user-images.githubusercontent.com/79633852/172630882-e824b6d9-d727-4d4c-9d90-61fadb5b834d.png)
 
+ ###### waanneer zou ik scrum gebruiken?
+ Persoonlijk zou ik zelf scrum gebruiken als ik niet zeker weet wat een klant nou precies wil of als de klant nog niet precies weet hoe hij bepaalde dingen wil aanpakken. Als ik verwacht dat er regelmatig dingen tijdens het proces kunnen veranderen dan zou ik ook scrum gebruiken.
  
  
 #### verbeterpunten
