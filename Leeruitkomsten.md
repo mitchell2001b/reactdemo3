@@ -63,7 +63,7 @@ Voor mijn unit en intergratie testen gebruik ik een H2 database. Ik heb gekozen 
 Voor mijn delivery gebruik ik docker. Met docker kan ik mijn applicatie in een virtuele container zetten om hem zo vervolgens makkelijk op andere machines te draaien/gebruiken. Ook kan ik zo makkelijk verschillende versies van mijn applicatie opslaan door meerdere containers aan te maken.
 
 #### Docker github action + dockerfiles
-Ook heb ik een github actions opgezet voor mijn docker container. Ik mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up command in de terminal te runnen. De docker container heb ik kunnen maken door in mijn backend en in mijn frontend end een dockerfile te maken. vervolgens heb ik in de back end ook een docker-compose file aangemaakt waarmee ik alle docker images in een container kan stoppen die ik dus dan vervolgens allemaal tegelijk kan laten runnen. 
+Ook heb ik een github actions opgezet voor mijn docker container. Ik kan mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up command in de terminal te runnen. De docker container heb ik kunnen maken door in mijn backend en in mijn frontend end een dockerfile te maken. vervolgens heb ik in de back end ook een docker-compose file aangemaakt waarmee ik alle docker images in een container kan stoppen die ik dus dan vervolgens allemaal tegelijk kan laten runnen. 
 
 
 ![image](https://user-images.githubusercontent.com/79633852/171254382-e9c741af-78ce-4aac-a0aa-ce8f46eeb095.png)
