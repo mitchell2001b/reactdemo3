@@ -55,7 +55,7 @@ Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen au
 
 <img width="406" alt="github" src="https://user-images.githubusercontent.com/79633852/164170917-14271118-9214-4c5c-affe-d73bfcecd5f3.PNG">
 
-Ook heb ik een github actions opgezet voor mijn docker container. Dit zorgt ervoor dat ik mijn app in een keer kan opstarten. Ook kan ik mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up te runnen. De docker container heb ik kunnen maken door in mijn backend en in mijn frontend end een dockerfile te maken. vervolgens heb ik in de back end ook een docker-compose file aangemaakt waarmee ik alle docker images in een container kan stoppen die ik dus dan vervolgens allemaal tegelijk kan laten runnen.
+Ook heb ik een github actions opgezet voor mijn docker container.Ook kan ik mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up command in de terminal te runnen. De docker container heb ik kunnen maken door in mijn backend en in mijn frontend end een dockerfile te maken. vervolgens heb ik in de back end ook een docker-compose file aangemaakt waarmee ik alle docker images in een container kan stoppen die ik dus dan vervolgens allemaal tegelijk kan laten runnen.
 
 
 ![image](https://user-images.githubusercontent.com/79633852/173078191-12904ee5-b693-4d2f-8e02-c639045e62a4.png)
