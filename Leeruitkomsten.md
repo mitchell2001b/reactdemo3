@@ -54,6 +54,9 @@ De testen die ik voor mijn applicatie heb gemaakt zijn:
 ### Github actions
 Voor mijn CI/CD heb ik github actions gebruikt om mijn testen automatisch te laten runnen elke keer als een commit push of branch merge. Ik heb gekozen om mijn testen automatisch te laten runnen om ze te kunnen kijken als ik bijvoorbeeld een grote feature toevoeg ik dan kan checken of alle oude code nog werkt op de manier zoals ik verwacht. Voor mijn sonarCloud heb ik ook een github action aangemaakt zodat de code scans ook worden gedaan bij een push of merge.
 
+![image](https://user-images.githubusercontent.com/79633852/173407899-93888cb9-dcb2-4866-8585-f364dae8a846.png)
+
+
 #### H2 Database
 Voor mijn unit en intergratie testen gebruik ik een H2 database. Ik heb gekozen voor deze database, omdat dit een in memory database is. Dit betekend dus dat deze database elke keer als ik mijn testen heb gedaan zich zelf verwijderd en dit moet ook gebeuren want ik wil dat de data die ik voor het testen nodig heb of tijdens het testen zijn aangemaakt niet permanment hebben. Ook gebruikt deze database niet mijn schijf om deze dingen op te slaan. H2 is wel een andere database dan Mysql maar voor mijn project was ik niet tegen problemen aangelopen op het gebied van veranderingen.
 
