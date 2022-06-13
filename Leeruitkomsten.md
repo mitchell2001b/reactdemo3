@@ -31,7 +31,7 @@ De sonarcloud code scans runnen ook automatisch elke keer als ik code commit mee
 <img width="399" alt="test" src="https://user-images.githubusercontent.com/79633852/164170657-b3306f84-044f-4a30-bcc4-1972bd7d9048.PNG">
 
 ### code tests
-Voor deze applicatie heb ik ook een aantal testen gemaakt voor de kernfuncties van de applicatie. Deze testen zorgen ervoor dat ik voortdurend kan kijken of mijn oude code nog werkt na code te pushen en ook kan ik kijken of mijn huidige code werkt zoals die zou moeten werken.
+Voor deze applicatie heb ik ook een aantal testen gemaakt voor de kernfuncties van de applicatie. Deze testen zorgen ervoor dat ik voortdurend kan kijken of mijn huidige en oude code nog werkt.
 
 De testen die ik voor mijn applicatie heb gemaakt zijn:
 
@@ -50,7 +50,21 @@ De testen die ik voor mijn applicatie heb gemaakt zijn:
 
 
 ## Leeruitkomst 4: CI/CD
-Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen automatisch uit te voeren elke keer als ik een commit push of een branch merge met een andere branch. Voor mijn unit testen gebruik een h2 database dit is beter, omdat ik wil dat mijn data verwijderd wordt nadat al mijn tests zijn uitgevoerd en de h2 database gebruikt niet mijn schijf om dingen op te slaan. De reden waarom ik mijn testen automatisch heb laten draaien is, omdat ik zo kan zien of de oude code nog goed werkt nadat ik een grote feature bijvoorbeeld heb toegevoegd. Ook heb ik ervoor zorgt dat mijn sonar cloud automatisch een code scan doet nadat ik een push doe naar github zodat ik kan kijken of er misschien code smells of bugs in de nieuwe code zitten.
+
+### Github actions
+Voor mijn CI/CD heb ik github actions gebruikt om mijn testen automatisch te laten runnen elke keer als een commit push of branch merge. Ik heb gekozen om mijn testen automatisch te laten runnen om ze te kunnen kijken als ik bijvoorbeeld een grote feature toevoeg ik dan kan checken of alle oude code nog werkt op de manier zoals ik verwacht. Voor mijn sonarCloud heb ik ook een github action aangemaakt zodat de code scans ook worden gedaan bij een push of merge.
+
+#### H2 Database
+Voor mijn unit en intergratie testen gebruik ik een H2 database. Ik heb gekozen voor deze database, omdat dit een in memory database is. Dit betekend dus dat deze database elke keer als ik mijn testen heb gedaan zich zelf verwijderd en dit moet ook gebeuren want ik wil dat de data die ik voor het testen nodig heb of tijdens het testen zijn aangemaakt niet permanment hebben. Ook gebruikt deze database niet mijn schijf om deze dingen op te slaan. H2 is wel een andere database dan Mysql maar voor mijn project was ik niet tegen problemen aangelopen op het gebied van veranderingen.
+
+
+### Docker
+
+Voor mijn delivery gebruik ik docker. Met docker kan ik mijn applicatie in een virtuele container zetten om hem zo vervolgens makkelijk op andere machines te draaien/gebruiken. Ook kan ik zo makkelijk verschillende versies van mijn applicatie opslaan door meerdere containers aan te maken.
+
+#### Docker github action + dockerfiles
+Ook heb ik een github actions opgezet voor mijn docker container. Ik mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up command in de terminal te runnen. De docker container heb ik kunnen maken door in mijn backend en in mijn frontend end een dockerfile te maken. vervolgens heb ik in de back end ook een docker-compose file aangemaakt waarmee ik alle docker images in een container kan stoppen die ik dus dan vervolgens allemaal tegelijk kan laten runnen. 
+
 
 ![image](https://user-images.githubusercontent.com/79633852/171254382-e9c741af-78ce-4aac-a0aa-ce8f46eeb095.png)
 
@@ -59,7 +73,7 @@ Voor deze leeruitkomst heb ik git gub actions gebruikt om zo mijn unit testen au
 
 <img width="406" alt="github" src="https://user-images.githubusercontent.com/79633852/164170917-14271118-9214-4c5c-affe-d73bfcecd5f3.PNG">
 
-Ook heb ik een github actions opgezet voor mijn docker container.Ook kan ik mijn app nu makkelijk eventueel op andere machines draaien door simpel de git te clonen en docker-compose up command in de terminal te runnen. De docker container heb ik kunnen maken door in mijn backend en in mijn frontend end een dockerfile te maken. vervolgens heb ik in de back end ook een docker-compose file aangemaakt waarmee ik alle docker images in een container kan stoppen die ik dus dan vervolgens allemaal tegelijk kan laten runnen.
+
 
 
 ![image](https://user-images.githubusercontent.com/79633852/173078191-12904ee5-b693-4d2f-8e02-c639045e62a4.png)
