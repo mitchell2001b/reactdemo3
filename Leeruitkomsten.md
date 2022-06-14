@@ -57,6 +57,13 @@ De testen die ik voor mijn applicatie heb gemaakt zijn:
 ![image](https://user-images.githubusercontent.com/79633852/173204921-3cc7135d-d00d-4d95-8e37-8a015638baec.png)
 
 
+### Reflectie
+
+Hoewel ik al redelijk bekend was met unit testen heb ik toch best veel nieuwe dingen geleerd op het gebied van testen. Zo weet ik nu hoe ik simpele intergratie testen kan maken die werken met een in memory database. Persoonlijk vind ik de in memory database een van de belangrijkste dingen die ik geleerd heb tijdens dit semester. Dit komt omdat, ik verwacht dat ik later nog heel veel teste ga maken voor mijn projecten en dan is het handig om te weten welke databases hier handig voor te gebruiken zijn en welke niet. In het begin van het semester had ik wel een kleine fout gemaakt. Ik had namelijk beslist om een dal laag aan te maken voor mijn dal klassen maar omdat ik een ORM gebruik is er geen dal laag nodig omdat de orm zelf al soort van voor deze abstractie zorgt.
+
+Een ander ding wat ik geleerd heb is hoe je je code scans kan uitvoeren om te kijken of er misschien code smells of bugs in je code zetten. Toen ik de code scans aan het uitvoeren was kwam ik wel op een ding wat ik niet had verwacht. Tijdens mijn mbo opleiding en stages heb ik zeg maar altijd geleerd dat je functioe namen beter met een hoofdletter moet schrijven dus: MyFunction() maar toen ik de code scan deed gaf sonarcloud mij als advies om de functie namen met een kleine letter te laten beginnen (myFunction()) dus dat vond ik wel apart. 
+
+Ik ben dus tevreden over wat ik geleerd heb bij deze leeruitkomst en ik ga zeker in de toekomst intergratie tests en code scans met sonar cloud toepassen in mijn toekomstige projecten.
 
 ## Leeruitkomst 4: CI/CD
 
