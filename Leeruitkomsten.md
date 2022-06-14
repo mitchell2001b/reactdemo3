@@ -6,7 +6,8 @@
 ## Leeruitkomst 1: Webapplication
 You design and build user-friendly, full-stack web applications.
 
-•	Voor deze leeruitkomst ben ik bezig aan een individueel project en een groepsproject. In het individuele project heb ik een Task manager applicatie gemaakt met een front-end (react js) en een backend. (java/springboot). Deze applicatie communiceert doormiddel van Api calls en in de backend wordt ook gebruik gemaakt van een ORM zodat ik niet de hele tijd handmatig de database moet aanpassen of aan te maken en ook geeft het een voordeel voor het handelen van verschillende queries. Het hele project is te bekijken op mijn git portfolio.
+•	Voor mijn webapplication ben ik bezig aan een individueel project en een groepsproject. In het individuele project heb ik een Task manager applicatie gemaakt met een front-end (react js) en een backend. (java/springboot). Deze applicatie communiceert doormiddel van Api calls en in de backend wordt ook gebruik gemaakt van een ORM zodat ik niet de hele tijd handmatig de database moet aanpassen of aan te maken en ook geeft het een voordeel voor het handelen van verschillende queries. Het hele project is te bekijken op mijn git portfolio. Tijdens het realiseren van mijn applicatie heb ik ook gebruik gemaakt van bootstrap zodat ik mijn applicatie een vrij standaard mooie uitstraling laten vertonen. Ook zorgt bootstrap ervoor dat mijn applicatie goed wordt weergegeven op verschillende soorten schermen.
+
 
  <img width="454" alt="taskmanager 2" src="https://user-images.githubusercontent.com/79633852/164169482-62b19bd0-1a28-4a15-9914-bb68d7c2eafd.PNG">
  
@@ -19,7 +20,7 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 ## Leeruitkomst 2: Software quality 
 
 ### SonarCloud en SonarLint
-Voor deze leeruitkomst heb ik gebruik gemaakt van Sonarcloud en SonarLint. Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke code smell Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc). 
+Om mijn software quality te checken en te verbeteren heb ik gebruik gemaakt van Sonarcloud en SonarLint. Sonarcloud gebruik ik, omdat ik zo op mijn github mogelijke code smell Hotspots kan zien en ook kan kijken of de gemaakte code onderhoudbaar is en goed beveiligd is. SonarLint is voor de Ide zelf en deze geeft bijvoorbeeld extra waarschuwingen over hoe je dingen beter kan doen bijvoorbeeld (beter variable namen suggesties etc). 
 
 Ook heb ik met behulp van sonar lint ook bijvoorbeeld wat code kunnen verbeteren zo heb ik bijvoorbeeld bij sommige van mijn controller en services methoden de objecten die ik mee geef veranderd naar dto's in plaats van de echte entiteiten.
 
