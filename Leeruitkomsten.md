@@ -17,7 +17,13 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 <img width="452" alt="ruimte1" src="https://user-images.githubusercontent.com/79633852/164169702-3d39a096-9e9d-46b8-9bdb-fbc80392aaf9.PNG">
 <img width="402" alt="ruimte2" src="https://user-images.githubusercontent.com/79633852/164169706-1abbe5e2-9499-45cf-bdd1-6cd5128f1029.PNG">
 
+### Reflectie
 
+Persoonlijk vond ik met react werken heel leerzaam vooral omdat ik zelf persoonlijk nog nooit echt bezig geweest ben met frontend design. Zelf had ik al wat javascript kennis maar ik had nog nooit echt met een javascript framework gewerkt. Ook het maken van API calls en werken met java was voor mij nieuw. Uit dit semester heb ik dus veel nuttige dingen kunnen halen die ik later in mijn toekomstige applicaties ook weer kan gebruiken. 
+
+Ik dacht eerst dat het nog een heel gedoe zou worden met het opzetten van een rest api maar uiteindelijk was het toch vrij snel gelukt. Alleen had ik wel een fout gemaakt die ik later pas ontdekte in het semester. Ik had namelijk de oude class components van react gebruikt in plaats van de nieuwe functionele components en daarom wil ik als ik de vorige keer react gebruikt wel de functionele components gebruiken in plaats van de class components versie. Verder had ik ook leren werken met bootstrap waarvan ik dacht dat dat ook wel lastig zou zijn maar ik kwam er al gauw achter dat dit niet het geval was voor mijn project wouw ik alleen de basis van bootstrap gebruiken en daarvoor hoefde ik alleen wat elmenten en classes te pakken van bootstrap zelf en het was klaar. 
+
+Voor de backend had ik geleerd hoe je een simpele rest api moet maken met springboot en java. Ook heb ik geleerd hoe ik een ORM gebruik. het werken met een ORM vond ik op sommige momenten heel handig en op sommige momenten dan weer niet handig. Bijvoorbeeld: Het was handig dat ik niet elke keer de database hoef aan te passen elke keer als ik iets aan de entiteiten verander want hij doet dit immers automatisch. Ook was het handig dat ik zelf niet weer alle basis queries zoals save,update,select en delete zelf hoef aan te maken zoals ik in het tweede semester deed. Een ding dat ik dan wel weer niet handig van de ORM vond is dat als ik alleen specifieke velden van bijvoorbeeld een koppeltabel wilde ophalen dat de ORM dan ook alle data van die andere entiteiten erbij pakte omdat dit een relatie was. Tegen dit probleem liep ik vooral in de proftaak aan. Ik heb het uiteindelijk kunnen oplossen door een extra constructor bij de dto maken en deze vervolgens door een controle filter heen laten gaan.
 
 ## Leeruitkomst 2: Software quality 
 
