@@ -17,6 +17,8 @@ Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uit
 <img width="452" alt="ruimte1" src="https://user-images.githubusercontent.com/79633852/164169702-3d39a096-9e9d-46b8-9bdb-fbc80392aaf9.PNG">
 <img width="402" alt="ruimte2" src="https://user-images.githubusercontent.com/79633852/164169706-1abbe5e2-9499-45cf-bdd1-6cd5128f1029.PNG">
 
+
+
 ## Leeruitkomst 2: Software quality 
 
 ### SonarCloud en SonarLint
@@ -97,7 +99,6 @@ Dit trello bord heb ik ook gemaakt zodat ik een soort van planning heb waar ik m
 Mijn feedback die ik van de stakeholders heb gekregen leg ik vast in feedpulse
 
 ![image](https://user-images.githubusercontent.com/79633852/171257923-203a4d6d-ece3-4a85-b9e1-d0aebdace28b.png)
-
 
 
 
