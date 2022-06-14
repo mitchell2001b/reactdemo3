@@ -23,6 +23,10 @@ Over het algemeen vindt ik dat je altijd zo goed mogelijk het product moet reali
 
 Wel vindt ik dat er uitzonderingen zijn voor dit advies. Bijvoorbeeld als de stakeholder de hele tijd onhaalbare deadlines geeft of voortdurend ongewenst gedrag vertoont. Ik zou dan eerst er een paar keer met de stakeholder erover praten over hoe we dat probleem samen zouden kunnen oplossen. Maar als dit ook niet helpt dan zou ik zelf dit advies niet meer geven als dit van toepassing zou zijn. Je kunt dan gewoon de applicatie maken hoe de stakeholder dat wil(de kwaliteit blijft hetzelfde) en eventuele problemen die zich op lange termijn kunnen voordoen moet de stakeholder zelf maar oplossen.
 
+#### -COLLEGA'S
+
+Als laatste vind ik het onderdeel collega's belangrijk, omdat ik vind dat je altijd eerlijk moet zijn zodat je veel vertrouwen opbouwt bij je mede mens. Dit vertrouwen zorgt er dan weer voor dat je elkaar beter leert kennen en zo de samenwerking erg verbeterd. Ook is vriendelijk gedrag belangrijk, omdat negatief gedrag de samenwerking binnen de projectgroep negatief beinvloed. Als laatste vind ik het ook belangrijk dat je elkaar helpt en ook als je ziet als een van je project genoten misschien te verlegen is om vragen te stellen kun je zelf het voortouw nemem en aan hem vragen of hij misschien hulp nodig heeft.
+
 ### ACM principes
 
 <i>Software-ingenieurs zullen zich ertoe verbinden van het analyseren, specificeren, ontwerpen, ontwikkelen, testen en onderhouden van software een nuttig en gerespecteerd beroep te maken. In overeenstemming met hun inzet voor de gezondheid, veiligheid en het welzijn van het publiek, zullen software-ingenieurs zich houden aan de volgende acht principes:
