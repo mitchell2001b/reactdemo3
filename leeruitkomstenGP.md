@@ -35,6 +35,14 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
  ###### waanneer zou ik scrum gebruiken?
  Persoonlijk zou ik zelf scrum gebruiken als ik niet zeker weet wat een klant nou precies wil of als de klant nog niet precies weet hoe hij bepaalde dingen wil aanpakken. Als ik verwacht dat er regelmatig dingen tijdens het proces kunnen veranderen dan zou ik ook scrum gebruiken.
  
+ ### Nadelen van Agile
+ Werken met Agile kent ook nadelen:
+ 
+ -Doordat agile gebaseerd is op het uitgangspunt dat project groepen niet altijd weten hoe hun eindresultaat eruit zal zien is het moeilijker om te voorspellen hoeveel tijd en geld het nou eigenlijk gaat kosten.
+ 
+ (een mogelijke oplossing hiervoor is must haves opstellen per sprint)
+ 
+ -De scope kan makkelijker out of control raken door het gebrek aan processen. Het is belangrijk daarom dat je weet wat je visie is en waar je naar toe moet werken.
  
 #### verbeterpunten
 Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van de standups. We hadden vaak het probleem dat onze standups langzaam veranderen in een standaard gesprek over bijvoorbeeld of iemand afgelopen weekend leuke dingen heeft gedaan etc. Dit wil ik in de toekomst proberen te voorkomen door bijvoorbeeld een regel te maken die zegt hoelang een standup maximaal mag duren etc.
