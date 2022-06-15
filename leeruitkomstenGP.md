@@ -53,6 +53,7 @@ Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van
  ![image](https://user-images.githubusercontent.com/79633852/170870424-7519c53e-7b98-4ba0-ace3-ab351bc8d40c.png)
  
 
+bron(https://agilescrumgroup.nl/wat-is-scrum-methode/)
 
  
 
