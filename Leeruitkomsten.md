@@ -121,7 +121,7 @@ Mijn feedback die ik van de stakeholders heb gekregen leg ik vast in feedpulse
 
 ### Reflectie
 
-Tijdens deze leeruitkomst heb ik geleerd hoe je een onderzoek dat je hebt gedaan goed kan beschrijven. Hiervoor had ik gewerkt met het DOT framework en STARR.
+Tijdens deze leeruitkomst heb ik geleerd hoe je een onderzoek dat je hebt gedaan goed kan beschrijven. Hiervoor had ik gewerkt met het DOT framework en hoe je je onderzoek vragen goed moet kiezen zodat de vragen niet te breed zijn en meer specifiek zijn.
 Om eerlijk te zijn vond ik deze dingen het minst leuke om te leren omdat, ik zelf niet zo van documentatie schrijven ben maar omdat, goed research doen belangrijk is voor de komende stage periodes heb ik toch redelijk veel motivatie kunnen vinden om dit de kunnen leren. Ik ben dan ook van plan om als ik nieuwe dingen onderzoek tijdens mij stage deze goed te documenteren zodat mijn stage begeleider goed kan zien wat ik precies geleerd heb en wat ik er van vond.
 
 
