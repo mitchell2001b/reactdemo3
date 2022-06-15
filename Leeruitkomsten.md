@@ -97,6 +97,11 @@ Ook heb ik een github actions opgezet voor mijn docker container. Ik kan mijn ap
 
 ![image](https://user-images.githubusercontent.com/79633852/173090290-427ed321-1398-4eab-969a-2c5ea6242071.png)
 
+### Reflectie
+
+Het leren van Docker en het automatisch laten runnen van testen vond ik het leukste om te leren en hier had ik dan ook een groot deel van mijn tijd in gestoken. De reden waarom ik deze onderwerpen zo interessant vond is omdat, ik tijdens mijn mbo stage hier ook al naar gekeken had maar ik kwam er nooit echt uit dus voor mij was dit semester ideaal om deze onderwerpen goed te onderzoeken. In veel bedrijven wordt ook met docker gewerkt en dit was dus ook weer extra motivatie om dit te leren. Tijdens het leerproces liep ik wel tegen wat dingen aan. Bijvoorbeeld mijn docker backend container startte de heletijd op en daarna sluitte hij meteen weer af. Ik heb het uiteindelijk kunnen oplossen door docker compose up te runnen in plaats van docker compose up -d.
+
+Het automatisch laten runnen van testen ging redelijk snel. Sneller dan ik had verwacht ik hoefde namelijk alleen een git hub action toe te voegen (java CI with maven en node.js CI). In mijn toekomstige applicaties/projecten ga ik deze kennis dan ook zeker gebruiken. Ik ben van plan om in de zomervakantie uit te zoeken hoe ik mijn docker containers automatisch kan laten updaten/ nieuwe  images builden als ik een stukje code verander.
 
 
 ## Leeruitkomst 8: Professional
@@ -114,5 +119,9 @@ Mijn feedback die ik van de stakeholders heb gekregen leg ik vast in feedpulse
 ![image](https://user-images.githubusercontent.com/79633852/171257923-203a4d6d-ece3-4a85-b9e1-d0aebdace28b.png)
 
 
+### Reflectie
+
+Tijdens deze leeruitkomst heb ik geleerd hoe je een onderzoek dat je hebt gedaan goed kan beschrijven. Hiervoor had ik gewerkt met het DOT framework en STARR.
+Om eerlijk te zijn vond ik deze dingen het minst leuke om te leren omdat, ik zelf niet zo van documentatie schrijven ben maar omdat, goed research doen belangrijk is voor de komende stage periodes heb ik toch redelijk veel motivatie kunnen vinden om dit de kunnen leren. Ik ben dan ook van plan om als ik nieuwe dingen onderzoek tijdens mij stage deze goed te documenteren zodat mijn stage begeleider goed kan zien wat ik precies geleerd heb en wat ik er van vond.
 
 
