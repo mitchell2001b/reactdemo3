@@ -43,6 +43,7 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
  (een mogelijke oplossing hiervoor is must haves opstellen per sprint)
  
  -De scope kan makkelijker out of control raken door het gebrek aan processen. Het is belangrijk daarom dat je weet wat je visie is en waar je naar toe moet werken.
+ (Dit nadeel is alleen een nadeel als je je communicatie met de stakeholders ofj e documentatie niet goed op orde hebt en kan dus worden voorkomen door regelmatig met de stakeholders te praten en goeie afpsraken binnen de project groep te maken en deze te documenteren)
  
 #### verbeterpunten
 Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van de standups. We hadden vaak het probleem dat onze standups langzaam veranderen in een standaard gesprek over bijvoorbeeld of iemand afgelopen weekend leuke dingen heeft gedaan etc. Dit wil ik in de toekomst proberen te voorkomen door bijvoorbeeld een regel te maken die zegt hoelang een standup maximaal mag duren etc.
