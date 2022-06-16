@@ -36,7 +36,7 @@ class Form extends Component
             email: event.target.value
         })
      }
-
+     //test
      HandleSubmit = (event) => {
         alert(`${this.state.dateofbirth}`);
         alert(JSON.stringify(this.state));
