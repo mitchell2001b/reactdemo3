@@ -1,8 +1,8 @@
-# Hoe kan ik mijn testen automatisch laten draaien in mijn applicatie?
+# Hoe kunnen (automatische)testen bijdragen aan de code kwaliteit van mijn applicatie?
 
 
 ## De vraag in het algemeen
-Dit research report over unit test schrijf ik, omdat ik me afvroeg wat nou precies belangrijk is om te testen en wat juist niet belangrijk is om te testen in een fullstack application ook om waarom het handig is om je testen automatisch te laten runnen en hoe dit kan bereiken. Voor dit onderzoek ben ik er van uit gegaan dat ik met React, Springboot en een ORM werk. 
+Dit research report over unit test schrijf ik, omdat ik me afvroeg wat nou precies belangrijk is om te testen en wat juist niet belangrijk is om te testen in een fullstack application ook om waarom het handig is om je testen automatisch te laten runnen en hoe dit kan bereiken en natuurlijk hoe dit kan bijdragen aan de code kwaliteit van mijn applicatie. Voor dit onderzoek ben ik er van uit gegaan dat ik met React, Springboot en een ORM werk. 
 
 
 ## Wat is handig om te testen in de frontend?
