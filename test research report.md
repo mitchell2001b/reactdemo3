@@ -57,7 +57,7 @@ Als laatste had ik ook uitgeprobeerd om mijn testen dus automatisch te laten run
 
 ## Conclusie
 
-Na al deze onderzoeken te doen heb ik dus de volgende dingen besloten die ik ga toepassen of al heb toegepast in mijn eigen project.
+Na al dit onderzoek gedaan te hebben heb ik besloten dat ik ga proberen om de volgende dingen toe te passen in mijn individuele project.
 
 • Voor de frontend:
 
