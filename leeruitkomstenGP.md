@@ -38,12 +38,13 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
  ### Nadelen van Agile
  Werken met Agile kent ook nadelen:
  
- -Doordat agile gebaseerd is op het uitgangspunt dat project groepen niet altijd weten hoe hun eindresultaat eruit zal zien is het moeilijker om te voorspellen hoeveel tijd en geld het nou eigenlijk gaat kosten.
+ -Doordat agile gebaseerd is op het uitgangspunt dat project groepen niet altijd weten hoe hun eindresultaat eruit zal zien is het moeilijker om te voorspellen       hoeveel tijd en geld het nou eigenlijk gaat kosten.
  
- (een mogelijke oplossing hiervoor is must haves opstellen per sprint)
+ een mogelijke oplossing hiervoor is must haves opstellen per sprint)
  
  -De scope kan makkelijker out of control raken door het gebrek aan processen. Het is belangrijk daarom dat je weet wat je visie is en waar je naar toe moet werken.
- (Dit nadeel is alleen een nadeel als je je communicatie met de stakeholders ofj e documentatie niet goed op orde hebt en kan dus worden voorkomen door regelmatig met de stakeholders te praten en goeie afpsraken binnen de project groep te maken en deze te documenteren)
+ 
+  (Dit nadeel is alleen een nadeel als je je communicatie met de stakeholders of je documentatie niet goed op orde hebt en kan dus worden voorkomen door regelmatig   met de stakeholders te praten en goeie afpsraken binnen de project groep te maken en deze te documenteren)
  
 #### verbeterpunten
 Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van de standups. We hadden vaak het probleem dat onze standups langzaam veranderen in een standaard gesprek over bijvoorbeeld of iemand afgelopen weekend leuke dingen heeft gedaan etc. Dit wil ik in de toekomst proberen te voorkomen door bijvoorbeeld een regel te maken die zegt hoelang een standup maximaal mag duren etc.
@@ -63,7 +64,7 @@ bron(https://agilescrumgroup.nl/wat-is-scrum-methode/)
 
 ### 6. Requirements and design
 
-Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel gediscussieerd en uiteindelijk user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden we ook een interview gedaan met de klant waarbij we een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview.
+Om ons project voor onze proftaak te realiseren heb ik samen met mijn groep veel gediscussieerd en uiteindelijk user stories gemaakt die beschrijven wat de applicatie moet kunnen kwa functionaliteit en voor wie onze applicatie nu eigenlijk bedoelt is. Ook hebben voor deze applicatie ook wat diagrammen gemaakt zoals een ER model zodat iedereen in de groep snel kan zien welke entiteiten van de applicatie relaties hebben en hoe deze relaties in elkaar zitten. Deze user stories splitsen we uiteindelijk ook op in een aantal kleine taken waar we dan apart aan kunnen werken. In onze eerste gesprekken met de klant hadden we ook een interview gedaan met de klant waarbij we een vragen lijst doornamen zodat wisten wat precies de klant zou willen dat we gingen maken. Die user stories zijn daarom ook erg gebaseerd op de uitkomst van dat interview. Verder hebben we ook gekozen om persona's aan de userstories toe te voegen zodat als iemand bijvoorbeeld piada zegt dan weet iedereen in de groep meteen welke set of user stories bij de persona hoort.
 
 ![image](https://user-images.githubusercontent.com/79633852/170892632-bc196d4b-07c9-4193-9934-a712dd414689.png)
 
