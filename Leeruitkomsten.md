@@ -120,6 +120,9 @@ Het automatisch laten runnen van testen ging redelijk snel. Sneller dan ik had v
 
 Ik heb een groepsproject met een proftaak groep gemaakt en daarbij communiceerde ik regelmatig met mijn andere groepsgenoten om te laten zien waar ik mee bezig ben of als ik ergens hulp mee nodig heb. Verder vraag ik voor mijn individuele project feedback aan mijn stakeholders om zo mijn voortgang te tonen aan hen. Verder heb ik ook research reports geschreven voor mijn individuele project waarin ik mijn onderzoeken over bepaalde onderwerpen in detail uitleg hoe ik het heb aangepakt en waarom ik dit zo heb gedaan. Deze research reports kun je bekijken in mijn portfolio.
 
+- [Research report security](https://github.com/mitchell2001b/reactdemo3/blob/master/Research%20Reports.md)
+- [Research report automatic tests](https://github.com/mitchell2001b/reactdemo3/blob/master/test%20research%20report.md)
+
 Verder gebruik ik nog voor mijn individuele project nog een trello bord die ik bij houdt zodat ik kan zien waar ik nog aan moet werken en wat ik al heb gedaan.
 Dit trello bord heb ik ook gemaakt zodat ik een soort van planning heb waar ik mij aan kan houden.
 
