@@ -36,7 +36,9 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
  Werken met Agile kent ook nadelen:
  
  -Doordat agile gebaseerd is op het uitgangspunt dat project groepen niet altijd weten hoe hun eindresultaat eruit zal zien is het moeilijker om te voorspellen       hoeveel tijd en geld het nou eigenlijk gaat kosten.
+ 
   (een mogelijke oplossing hiervoor is must haves opstellen per sprint en regelmatig praten met de opdrachtgevers en stakeholders).
+ 
  
  -De scope kan makkelijker out of control raken door het gebrek aan processen. Het is belangrijk daarom dat je weet wat je visie is en waar je naar toe moet werken.
  
