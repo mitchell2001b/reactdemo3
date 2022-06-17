@@ -10,6 +10,17 @@ You design and build user-friendly, full-stack web applications.
 
 
  <img width="454" alt="taskmanager 2" src="https://user-images.githubusercontent.com/79633852/164169482-62b19bd0-1a28-4a15-9914-bb68d7c2eafd.PNG">
+ (Account overview pagina)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/79633852/174257604-785145cb-79d2-478c-8693-0d901c6fd865.png)
+(Task overview pagina (admin point of view))
+
+
+![image](https://user-images.githubusercontent.com/79633852/174261121-d58e0b70-58ee-46b8-8342-a06ebdc6ff13.png)
+(Task overview pagina (werknemer point of view))
+
+
  
 Verder had ik eerst nog een paar 3d projecten uitgeprobeerd maar deze heb ik uiteindelijk laten vallen, omdat deze niet goed aansluiten op de leeruitkomsten. Mijn doel was eigenlijk om een soort applicatie te maken waar ik mijn 3d modellen kon opslaan en deze dan in een soort van fotoboek te laten zien.
 
