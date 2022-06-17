@@ -45,6 +45,7 @@ Hier een paar foto's van enkele tests die ik heb geschreven.
 Deze tests heb ik met de springboot test dependency geshreven en ook met hulp van een in memory database genaamd h2 database en mock mvc zodat mijn service klassen gemocked zijn.
 
 Voor de frontend heb ik ook wat testen gemaakt. Ik heb hier onder andere end to end testsen gemaakt die mijn api calls naar de backend testen.
+
 ![image](https://user-images.githubusercontent.com/79633852/170304836-781f3946-4132-4915-a9a9-b9a4d5401c95.png)
 
 Deze frontend testen zijn echter nu niet meer zo belangrijk, omdat ik nu de end to end testen in de backend heb gemaakt.
