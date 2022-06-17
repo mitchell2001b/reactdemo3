@@ -58,8 +58,11 @@ Als laatste had ik ook uitgeprobeerd om mijn testen dus automatisch te laten run
 ## Conclusie
 
 Na al deze onderzoeken te doen heb ik dus de volgende dingen besloten die ik ga toepassen of al heb toegepast in mijn eigen project.
+
 • Voor de frontend:
--User interactie tests (zodat ik kan controleren of de user geen onverwachte acties kan uitvoeren op de applicatie).
+
+-User interactie tests.
+(zodat ik kan controleren of de user geen onverwachte acties kan uitvoeren op de applicatie).
 
 -React components voor belangrijke kernfuncties zoals het aanpassen van een Task.
 
