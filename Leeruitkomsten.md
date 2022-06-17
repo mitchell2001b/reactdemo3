@@ -13,7 +13,7 @@ You design and build user-friendly, full-stack web applications.
  (Account overview pagina)
  
  
- ![image](https://user-images.githubusercontent.com/79633852/174257604-785145cb-79d2-478c-8693-0d901c6fd865.png)
+![image](https://user-images.githubusercontent.com/79633852/174269481-02b8b3a1-14a0-4744-980e-a7f1f1daf796.png)
 (Task overview pagina (admin point of view))
 
 
