@@ -9,7 +9,8 @@ Een SQL injection is een soort beveiligingsprobleem dat kan voorkomen op website
 Ook kan een succesvolle injectie leiden tot grote datalekken die dan weer leiden tot mogelijke boetes van toezichthouders en reputatie schade voor het getroffen bedrijf/applicatie. Ook is het zelfs mogelijk voor de gebruiker die de injectie heeft uitgevoerd om een mogelijke achterdeur naar het systeem van het bedrijf krijgen die soms heel lang onopgemerkt kan blijven.
 
 ### welke Verschillende soorten SQL-injecties zijn er?
-In-band SQL-injectie
+
+#### In-band SQL-injectie
 Een In-band SQL-injectie aanval is de eenvoudigste vorm van een injectie aanval. De gebruiker kan met hetzelfde communicatiekanaal de aanval uitvoeren en ook resultaten van de aanval ophalen.
 
 • Error-based
@@ -19,7 +20,7 @@ Een Error-based aanval is een manier om een In-band aanval te doen. De gebruiker
 
 Bij deze aanval gebruiken gebruikers een union join om extra informatie op te halen van een andere tabel off meerdere andere tabellen.
 
-#Blinde SQL-injectie
+#### Blinde SQL-injectie
 Voor deze vorm van SQL-injectie stuurt de gebruiker verschillende query’s naar de database om te kijken hoe het systeem deze antwoorden analyseert. Deze methode wordt vaak gebruikt als mogelijk foutmeldingen van een gestuurde query niet naar de webpagina worden verzonden maar gelogd worden bijvoorbeeld.
 • True or false aanval
 Een boolean aanval is een aanval waarbij de gebruiker kijkt of de content veranderd. In een boolean aanval test de gebruiker de boolean clause om te kijken welke delen van een invoer kwetsbaar zijn voor SQL-injecties. Dit kan de gebruiker doen door te testen met “.. AND 1=1” en “..AND 1=2”. Als de toepassing normaal werkt bij 1=1 en een afwijking toont bij 1=2(kan ook andersom gedaan worden) dan is dit een indicatie dat de applicatie kwetsbaar is voor injectie aanvallen. Deze aanval werkt vrij traag vooral bij grote en complexe databases.
@@ -27,7 +28,7 @@ Een boolean aanval is een aanval waarbij de gebruiker kijkt of de content verand
 • Timebased aanval
 Bij een timebased aanval gebruikt de gebruiker een tijd gerelateerde functie van het databasesysteem dat de applicatie gebruikt. Stel de applicatie gebruikt een Mysql database, dan kan de gebruiker de functie sleep gebruiken om de database een paar seconden te laten wachten. Als de dergelijke zoekopdracht vertraging oplevert dan weet de gebruiker dat hij een succesvolle query heeft uitgevoerd en het systeem dus kwetsbaar is voor injecties.
 
-Out of band SQL-injectie
+#### Out of band SQL-injectie
 Een out of band SQL-injectie is eigen hetzelfde als een in band alleen in plaats van met hetzelfde kanaal de aanval en resultaten op te halen laat de gebruiker de database resultaten sturen naar een externe locatie die door de gebruiker is bepaald.
 
 ### Op welke manieren kan ik mijn applicatie beschermen tegen SQL-injecties? (strategiëen)
