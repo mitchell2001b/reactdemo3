@@ -15,9 +15,6 @@ Verder hebben we voor deze applicatie ook end to end testen geschreven doormidde
 ![image](https://user-images.githubusercontent.com/79633852/170569514-f2c65de9-550f-4de3-ae3a-df9535a1a208.png)
 
 
-
-
-
 ### 3. Agile method
 
 Voor deze leeruitkomst heb ik samen met mijn proftaak groep gebruik gemaakt van het scrum framework tijdens het realiseren van ons project. Dit houdt in dat we elke dag om 8:30 standups houden om te kunnen zien wat iedereen van plan was om die dag te gaan toen en om te kijken wat iedereen de vorige dag had gedaan. Verder leggen we ook alle werkzaamheden waar iedereen mee bezig is vast in een trello bord. Zo kunnen mensen die bijvoorbeeld de standup gemist hebben snel kijken op het trello bord om te zien waar iedereen mee bezig is.
@@ -35,7 +32,7 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
  ###### waanneer zou ik scrum gebruiken?
  Persoonlijk zou ik zelf scrum gebruiken als ik niet zeker weet wat een klant nou precies wil of als de klant nog niet precies weet hoe hij bepaalde dingen wil aanpakken. Als ik verwacht dat er regelmatig dingen tijdens het proces kunnen veranderen dan zou ik ook scrum gebruiken.
  
- ### Nadelen van Agile
+ ### mogelijke nadelen van Agile
  Werken met Agile kent ook nadelen:
  
  -Doordat agile gebaseerd is op het uitgangspunt dat project groepen niet altijd weten hoe hun eindresultaat eruit zal zien is het moeilijker om te voorspellen       hoeveel tijd en geld het nou eigenlijk gaat kosten.
@@ -44,7 +41,9 @@ Ook vind ik werken met agile veel beter dan bijvoorbeeld de waterval methode. Di
  
  -De scope kan makkelijker out of control raken door het gebrek aan processen. Het is belangrijk daarom dat je weet wat je visie is en waar je naar toe moet werken.
  
-  (Dit nadeel is alleen een nadeel als je je communicatie met de stakeholders of je documentatie niet goed op orde hebt en kan dus worden voorkomen door regelmatig   met de stakeholders te praten en goeie afpsraken binnen de project groep te maken en deze te documenteren)
+  (Dit nadeel is alleen een nadeel als je je communicatie met de stakeholders of je documentatie niet goed op orde hebt en kan dus worden voorkomen door regelmatig   met de stakeholders te praten en goeie afpsraken binnen de project groep te maken en deze te documenteren).
+  
+  (bron: https://www.lucidchart.com/blog/nl/agile-werken-nadelen)
  
 #### verbeterpunten
 Een ding wat ik de volgende keer wel beter wil proberen te doen is de inhoud van de standups. We hadden vaak het probleem dat onze standups langzaam veranderen in een standaard gesprek over bijvoorbeeld of iemand afgelopen weekend leuke dingen heeft gedaan etc. Dit wil ik in de toekomst proberen te voorkomen door bijvoorbeeld een regel te maken die zegt hoelang een standup maximaal mag duren etc.
